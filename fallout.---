@@ -1,0 +1,3962 @@
+<DATA>
+
+	<ROW>
+		<CountryID>2</CountryID>
+		<Country>Albania</Country>
+		<Table>albania</Table>
+		<ISO2>AL</ISO2>
+		<FIPS104>AL</FIPS104>
+		<ISO3>ALB</ISO3>
+		<ISON>8</ISON>
+		<TLD>.al</TLD>
+		<Capital>Tirana</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Albanian</NationalitySingular>
+		<NationalityPlural>Albanians</NationalityPlural>
+		<Currency>Lek</Currency>
+		<CurrencyCode>ALL</CurrencyCode>
+		<Population>3510484</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>3</CountryID>
+		<Country>Algeria</Country>
+		<Table>algeria</Table>
+		<ISO2>DZ</ISO2>
+		<FIPS104>AG</FIPS104>
+		<ISO3>DZA</ISO3>
+		<ISON>12</ISON>
+		<TLD>.dz</TLD>
+		<Capital>Algiers</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Algerian</NationalitySingular>
+		<NationalityPlural>Algerians</NationalityPlural>
+		<Currency>Algerian Dinar</Currency>
+		<CurrencyCode>DZD</CurrencyCode>
+		<Population>31736053</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>4</CountryID>
+		<Country>Andorra</Country>
+		<Table>andorra</Table>
+		<ISO2>AD</ISO2>
+		<FIPS104>AN</FIPS104>
+		<ISO3>AND</ISO3>
+		<ISON>20</ISON>
+		<TLD>.ad</TLD>
+		<Capital>Andorra la Vella</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Andorran</NationalitySingular>
+		<NationalityPlural>Andorrans</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>67627</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>5</CountryID>
+		<Country>Angola</Country>
+		<Table>angola</Table>
+		<ISO2>AO</ISO2>
+		<FIPS104>AO</FIPS104>
+		<ISO3>AGO</ISO3>
+		<ISON>24</ISON>
+		<TLD>.ao</TLD>
+		<Capital>Luanda</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Angolan</NationalitySingular>
+		<NationalityPlural>Angolans</NationalityPlural>
+		<Currency>Kwanza</Currency>
+		<CurrencyCode>AOA</CurrencyCode>
+		<Population>10366031</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>6</CountryID>
+		<Country>Anguilla</Country>
+		<Table>anguilla</Table>
+		<ISO2>AI</ISO2>
+		<FIPS104>AV</FIPS104>
+		<ISO3>AIA</ISO3>
+		<ISON>660</ISON>
+		<TLD>.ai</TLD>
+		<Capital>The Valley</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Anguillan</NationalitySingular>
+		<NationalityPlural>Anguillans</NationalityPlural>
+		<Currency>East Caribbean Dollar</Currency>
+		<CurrencyCode>XCD</CurrencyCode>
+		<Population>12132</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>7</CountryID>
+		<Country>Antigua and Barbuda</Country>
+		<Table>antiguaandbarbuda</Table>
+		<ISO2>AG</ISO2>
+		<FIPS104>AC</FIPS104>
+		<ISO3>ATG</ISO3>
+		<ISON>28</ISON>
+		<TLD>.ag</TLD>
+		<Capital>Saint John&#39;s</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Antiguan and Barbudan</NationalitySingular>
+		<NationalityPlural>Antiguans and Barbudans</NationalityPlural>
+		<Currency>East Caribbean Dollar</Currency>
+		<CurrencyCode>XCD</CurrencyCode>
+		<Population>66970</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>8</CountryID>
+		<Country>Argentina</Country>
+		<Table>argentina</Table>
+		<ISO2>AR</ISO2>
+		<FIPS104>AR</FIPS104>
+		<ISO3>ARG</ISO3>
+		<ISON>32</ISON>
+		<TLD>.ar</TLD>
+		<Capital>Buenos Aires</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Argentine</NationalitySingular>
+		<NationalityPlural>Argentines</NationalityPlural>
+		<Currency>Argentine Peso</Currency>
+		<CurrencyCode>ARS</CurrencyCode>
+		<Population>37384816</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>9</CountryID>
+		<Country>Armenia</Country>
+		<Table>armenia</Table>
+		<ISO2>AM</ISO2>
+		<FIPS104>AM</FIPS104>
+		<ISO3>ARM</ISO3>
+		<ISON>51</ISON>
+		<TLD>.am</TLD>
+		<Capital>Yerevan</Capital>
+		<Continent>Commonwealth of Independent States</Continent>
+		<NationalitySingular>Armenian</NationalitySingular>
+		<NationalityPlural>Armenians</NationalityPlural>
+		<Currency>Armenian Dram</Currency>
+		<CurrencyCode>AMD</CurrencyCode>
+		<Population>3336100</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>10</CountryID>
+		<Country>Ashmore And Cartier Islands</Country>
+		<Table>ashmoreandcartierislands</Table>
+		<ISO2>NULL</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>0</ISON>
+		<TLD>NULL</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>11</CountryID>
+		<Country>Australia</Country>
+		<Table>australia</Table>
+		<ISO2>AU</ISO2>
+		<FIPS104>AS</FIPS104>
+		<ISO3>AUS</ISO3>
+		<ISON>36</ISON>
+		<TLD>.au</TLD>
+		<Capital>Canberra</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Australian</NationalitySingular>
+		<NationalityPlural>Australians</NationalityPlural>
+		<Currency>Australian dollar</Currency>
+		<CurrencyCode>AUD</CurrencyCode>
+		<Population>19357594</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>12</CountryID>
+		<Country>Austria</Country>
+		<Table>austria</Table>
+		<ISO2>AT</ISO2>
+		<FIPS104>AU</FIPS104>
+		<ISO3>AUT</ISO3>
+		<ISON>40</ISON>
+		<TLD>.at</TLD>
+		<Capital>Vienna</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Austrian</NationalitySingular>
+		<NationalityPlural>Austrians</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>8150835</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>13</CountryID>
+		<Country>Azerbaijan</Country>
+		<Table>azerbaijan</Table>
+		<ISO2>AZ</ISO2>
+		<FIPS104>AJ</FIPS104>
+		<ISO3>AZE</ISO3>
+		<ISON>31</ISON>
+		<TLD>.az</TLD>
+		<Capital>Baku (Baki)</Capital>
+		<Continent>Commonwealth of Independent States</Continent>
+		<NationalitySingular>Azerbaijani</NationalitySingular>
+		<NationalityPlural>Azerbaijanis</NationalityPlural>
+		<Currency>Azerbaijani Manat</Currency>
+		<CurrencyCode>AZM</CurrencyCode>
+		<Population>7771092</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>14</CountryID>
+		<Country>The Bahamas</Country>
+		<Table>bahamasthe</Table>
+		<ISO2>BS</ISO2>
+		<FIPS104>BF</FIPS104>
+		<ISO3>BHS</ISO3>
+		<ISON>44</ISON>
+		<TLD>.bs</TLD>
+		<Capital>Nassau</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Bahamian</NationalitySingular>
+		<NationalityPlural>Bahamians</NationalityPlural>
+		<Currency>Bahamian Dollar</Currency>
+		<CurrencyCode>BSD</CurrencyCode>
+		<Population>297852</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>15</CountryID>
+		<Country>Bahrain</Country>
+		<Table>bahrain</Table>
+		<ISO2>BH</ISO2>
+		<FIPS104>BA</FIPS104>
+		<ISO3>BHR</ISO3>
+		<ISON>48</ISON>
+		<TLD>.bh</TLD>
+		<Capital>Manama</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Bahraini</NationalitySingular>
+		<NationalityPlural>Bahrainis</NationalityPlural>
+		<Currency>Bahraini Dinar</Currency>
+		<CurrencyCode>BHD</CurrencyCode>
+		<Population>645361</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>16</CountryID>
+		<Country>Bangladesh</Country>
+		<Table>bangladesh</Table>
+		<ISO2>BD</ISO2>
+		<FIPS104>BG</FIPS104>
+		<ISO3>BGD</ISO3>
+		<ISON>50</ISON>
+		<TLD>.bd</TLD>
+		<Capital>Dhaka</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Bangladeshi</NationalitySingular>
+		<NationalityPlural>Bangladeshis</NationalityPlural>
+		<Currency>Taka</Currency>
+		<CurrencyCode>BDT</CurrencyCode>
+		<Population>131269860</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>17</CountryID>
+		<Country>Barbados</Country>
+		<Table>barbados</Table>
+		<ISO2>BB</ISO2>
+		<FIPS104>BB</FIPS104>
+		<ISO3>BRB</ISO3>
+		<ISON>52</ISON>
+		<TLD>.bb</TLD>
+		<Capital>Bridgetown</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Barbadian</NationalitySingular>
+		<NationalityPlural>Barbadians</NationalityPlural>
+		<Currency>Barbados Dollar</Currency>
+		<CurrencyCode>BBD</CurrencyCode>
+		<Population>275330</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>18</CountryID>
+		<Country>Belarus</Country>
+		<Table>belarus</Table>
+		<ISO2>BY</ISO2>
+		<FIPS104>BO</FIPS104>
+		<ISO3>BLR</ISO3>
+		<ISON>112</ISON>
+		<TLD>.by</TLD>
+		<Capital>Minsk</Capital>
+		<Continent>Commonwealth of Independent States</Continent>
+		<NationalitySingular>Belarusian</NationalitySingular>
+		<NationalityPlural>Belarusians</NationalityPlural>
+		<Currency>Belarussian Ruble</Currency>
+		<CurrencyCode>BYR</CurrencyCode>
+		<Population>10350194</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>19</CountryID>
+		<Country>Belgium</Country>
+		<Table>belgium</Table>
+		<ISO2>BE</ISO2>
+		<FIPS104>BE</FIPS104>
+		<ISO3>BEL</ISO3>
+		<ISON>56</ISON>
+		<TLD>.be</TLD>
+		<Capital>Brussels</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Belgian</NationalitySingular>
+		<NationalityPlural>Belgians</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>10258762</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>20</CountryID>
+		<Country>Belize</Country>
+		<Table>belize</Table>
+		<ISO2>BZ</ISO2>
+		<FIPS104>BH</FIPS104>
+		<ISO3>BLZ</ISO3>
+		<ISON>84</ISON>
+		<TLD>.bz</TLD>
+		<Capital>Belmopan</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Belizean</NationalitySingular>
+		<NationalityPlural>Belizeans</NationalityPlural>
+		<Currency>Belize Dollar</Currency>
+		<CurrencyCode>BZD</CurrencyCode>
+		<Population>256062</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>21</CountryID>
+		<Country>Benin</Country>
+		<Table>benin</Table>
+		<ISO2>BJ</ISO2>
+		<FIPS104>BN</FIPS104>
+		<ISO3>BEN</ISO3>
+		<ISON>204</ISON>
+		<TLD>.bj</TLD>
+		<Capital>Porto-Novo</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Beninese</NationalitySingular>
+		<NationalityPlural>Beninese</NationalityPlural>
+		<Currency>CFA Franc BCEAO</Currency>
+		<CurrencyCode>XOF</CurrencyCode>
+		<Population>6590782</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>22</CountryID>
+		<Country>Bhutan</Country>
+		<Table>bhutan</Table>
+		<ISO2>BT</ISO2>
+		<FIPS104>BT</FIPS104>
+		<ISO3>BTN</ISO3>
+		<ISON>64</ISON>
+		<TLD>.bt</TLD>
+		<Capital>Thimphu</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Bhutanese</NationalitySingular>
+		<NationalityPlural>Bhutanese</NationalityPlural>
+		<Currency>Ngultrum</Currency>
+		<CurrencyCode>BTN</CurrencyCode>
+		<Population>2049412</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>23</CountryID>
+		<Country>Bolivia</Country>
+		<Table>bolivia</Table>
+		<ISO2>BO</ISO2>
+		<FIPS104>BL</FIPS104>
+		<ISO3>BOL</ISO3>
+		<ISON>68</ISON>
+		<TLD>.bo</TLD>
+		<Capital>La Paz /Sucre</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Bolivian</NationalitySingular>
+		<NationalityPlural>Bolivians</NationalityPlural>
+		<Currency>Boliviano</Currency>
+		<CurrencyCode>BOB</CurrencyCode>
+		<Population>8300463</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>24</CountryID>
+		<Country>Bosnia And Herzegovina</Country>
+		<Table>bosniaandherzegovina</Table>
+		<ISO2>BA</ISO2>
+		<FIPS104>BK</FIPS104>
+		<ISO3>BIH</ISO3>
+		<ISON>70</ISON>
+		<TLD>.ba</TLD>
+		<Capital>Sarajevo</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Bosnian and Herzegovinian</NationalitySingular>
+		<NationalityPlural>Bosnians and Herzegovinians</NationalityPlural>
+		<Currency>Convertible Marka</Currency>
+		<CurrencyCode>BAM</CurrencyCode>
+		<Population>3922205</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>25</CountryID>
+		<Country>Botswana</Country>
+		<Table>botswana</Table>
+		<ISO2>BW</ISO2>
+		<FIPS104>BC</FIPS104>
+		<ISO3>BWA</ISO3>
+		<ISON>72</ISON>
+		<TLD>.bw</TLD>
+		<Capital>Gaborone</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Motswana</NationalitySingular>
+		<NationalityPlural>Batswana</NationalityPlural>
+		<Currency>Pula</Currency>
+		<CurrencyCode>BWP</CurrencyCode>
+		<Population>1586119</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>26</CountryID>
+		<Country>Bouvet Island</Country>
+		<Table>bouvetisland</Table>
+		<ISO2>BV</ISO2>
+		<FIPS104>BV</FIPS104>
+		<ISO3>BVT</ISO3>
+		<ISON>74</ISON>
+		<TLD>.bv</TLD>
+		<Capital>NULL</Capital>
+		<Continent>Antarctic Region</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>Norwegian Krone</Currency>
+		<CurrencyCode>NOK</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>27</CountryID>
+		<Country>Brazil</Country>
+		<Table>brazil</Table>
+		<ISO2>BR</ISO2>
+		<FIPS104>BR</FIPS104>
+		<ISO3>BRA</ISO3>
+		<ISON>76</ISON>
+		<TLD>.br</TLD>
+		<Capital>Brasilia</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Brazilian</NationalitySingular>
+		<NationalityPlural>Brazilians</NationalityPlural>
+		<Currency>Brazilian Real</Currency>
+		<CurrencyCode>BRL</CurrencyCode>
+		<Population>174468575</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>28</CountryID>
+		<Country>British Indian Ocean Territory</Country>
+		<Table>britishindianoceanterritory</Table>
+		<ISO2>IO</ISO2>
+		<FIPS104>IO</FIPS104>
+		<ISO3>IOT</ISO3>
+		<ISON>86</ISON>
+		<TLD>.io</TLD>
+		<Capital>NULL</Capital>
+		<Continent>World Others</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>US Dollar</Currency>
+		<CurrencyCode>USD</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>29</CountryID>
+		<Country>British Virgin Islands</Country>
+		<Table>britishvirginislands</Table>
+		<ISO2>VG</ISO2>
+		<FIPS104>VI</FIPS104>
+		<ISO3>VGB</ISO3>
+		<ISON>92</ISON>
+		<TLD>.vg</TLD>
+		<Capital>Road Town</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>British Virgin Islander</NationalitySingular>
+		<NationalityPlural>British Virgin Islanders</NationalityPlural>
+		<Currency>US Dollar</Currency>
+		<CurrencyCode>USD</CurrencyCode>
+		<Population>20812</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>30</CountryID>
+		<Country>Brunei</Country>
+		<Table>brunei</Table>
+		<ISO2>BN</ISO2>
+		<FIPS104>BX</FIPS104>
+		<ISO3>BRN</ISO3>
+		<ISON>96</ISON>
+		<TLD>.bn</TLD>
+		<Capital>NULL</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>Brunei Dollar</Currency>
+		<CurrencyCode>BND</CurrencyCode>
+		<Population>372361</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>31</CountryID>
+		<Country>Bulgaria</Country>
+		<Table>bulgaria</Table>
+		<ISO2>BG</ISO2>
+		<FIPS104>BU</FIPS104>
+		<ISO3>BGR</ISO3>
+		<ISON>100</ISON>
+		<TLD>.bg</TLD>
+		<Capital>Sofia</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Bulgarian</NationalitySingular>
+		<NationalityPlural>Bulgarians</NationalityPlural>
+		<Currency>Lev</Currency>
+		<CurrencyCode>BGN</CurrencyCode>
+		<Population>7707495</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>32</CountryID>
+		<Country>Burkina Faso</Country>
+		<Table>burkinafaso</Table>
+		<ISO2>BF</ISO2>
+		<FIPS104>UV</FIPS104>
+		<ISO3>BFA</ISO3>
+		<ISON>854</ISON>
+		<TLD>.bf</TLD>
+		<Capital>Ouagadougou</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Burkinabe</NationalitySingular>
+		<NationalityPlural>Burkinabe</NationalityPlural>
+		<Currency>CFA Franc BCEAO</Currency>
+		<CurrencyCode>XOF</CurrencyCode>
+		<Population>12272289</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>33</CountryID>
+		<Country>Burma</Country>
+		<Table>burma</Table>
+		<ISO2>BM</ISO2>
+		<FIPS104>MM</FIPS104>
+		<ISO3>MMR</ISO3>
+		<ISON>104</ISON>
+		<TLD>.mm</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>34</CountryID>
+		<Country>Burundi</Country>
+		<Table>burundi</Table>
+		<ISO2>BI</ISO2>
+		<FIPS104>BY</FIPS104>
+		<ISO3>BDI</ISO3>
+		<ISON>108</ISON>
+		<TLD>.bi</TLD>
+		<Capital>Bujumbura</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Burundi</NationalitySingular>
+		<NationalityPlural>Burundians</NationalityPlural>
+		<Currency>Burundi Franc</Currency>
+		<CurrencyCode>BIF</CurrencyCode>
+		<Population>6223897</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>35</CountryID>
+		<Country>Cambodia</Country>
+		<Table>cambodia</Table>
+		<ISO2>KH</ISO2>
+		<FIPS104>CB</FIPS104>
+		<ISO3>KHM</ISO3>
+		<ISON>116</ISON>
+		<TLD>.kh</TLD>
+		<Capital>Phnom Penh</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>Cambodian</NationalitySingular>
+		<NationalityPlural>Cambodians</NationalityPlural>
+		<Currency>Riel</Currency>
+		<CurrencyCode>KHR</CurrencyCode>
+		<Population>12491501</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>36</CountryID>
+		<Country>Cameroon</Country>
+		<Table>cameroon</Table>
+		<ISO2>CM</ISO2>
+		<FIPS104>CM</FIPS104>
+		<ISO3>CMR</ISO3>
+		<ISON>120</ISON>
+		<TLD>.cm</TLD>
+		<Capital>Yaounde</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Cameroonian</NationalitySingular>
+		<NationalityPlural>Cameroonians</NationalityPlural>
+		<Currency>CFA Franc BEAC</Currency>
+		<CurrencyCode>XAF</CurrencyCode>
+		<Population>15803220</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>37</CountryID>
+		<Country>Canada</Country>
+		<Table>canada</Table>
+		<ISO2>CA</ISO2>
+		<FIPS104>CA</FIPS104>
+		<ISO3>CAN</ISO3>
+		<ISON>124</ISON>
+		<TLD>.ca</TLD>
+		<Capital>Ottawa</Capital>
+		<Continent>North America</Continent>
+		<NationalitySingular>Canadian</NationalitySingular>
+		<NationalityPlural>Canadians</NationalityPlural>
+		<Currency>Canadian Dollar</Currency>
+		<CurrencyCode>CAD</CurrencyCode>
+		<Population>31592805</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>38</CountryID>
+		<Country>Cape Verde</Country>
+		<Table>capeverde</Table>
+		<ISO2>CV</ISO2>
+		<FIPS104>CV</FIPS104>
+		<ISO3>CPV</ISO3>
+		<ISON>132</ISON>
+		<TLD>.cv</TLD>
+		<Capital>Praia</Capital>
+		<Continent>World Others</Continent>
+		<NationalitySingular>Cape Verdean</NationalitySingular>
+		<NationalityPlural>Cape Verdeans</NationalityPlural>
+		<Currency>Cape Verdean Escudo</Currency>
+		<CurrencyCode>CVE</CurrencyCode>
+		<Population>405163</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>39</CountryID>
+		<Country>Cayman Islands</Country>
+		<Table>caymanislands</Table>
+		<ISO2>KY</ISO2>
+		<FIPS104>CJ</FIPS104>
+		<ISO3>CYM</ISO3>
+		<ISON>136</ISON>
+		<TLD>.ky</TLD>
+		<Capital>George Town</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Caymanian</NationalitySingular>
+		<NationalityPlural>Caymanians</NationalityPlural>
+		<Currency>Cayman Islands Dollar</Currency>
+		<CurrencyCode>KYD</CurrencyCode>
+		<Population>35527</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>40</CountryID>
+		<Country>Central African Republic</Country>
+		<Table>centralafricanrepublic</Table>
+		<ISO2>CF</ISO2>
+		<FIPS104>CT</FIPS104>
+		<ISO3>CAF</ISO3>
+		<ISON>140</ISON>
+		<TLD>.cf</TLD>
+		<Capital>Bangui</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Central African</NationalitySingular>
+		<NationalityPlural>Central Africans</NationalityPlural>
+		<Currency>CFA Franc BEAC</Currency>
+		<CurrencyCode>XAF</CurrencyCode>
+		<Population>3576884</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>41</CountryID>
+		<Country>Chad</Country>
+		<Table>chad</Table>
+		<ISO2>TD</ISO2>
+		<FIPS104>CD</FIPS104>
+		<ISO3>TCD</ISO3>
+		<ISON>148</ISON>
+		<TLD>.td</TLD>
+		<Capital>N&#39;Djamena</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Chadian</NationalitySingular>
+		<NationalityPlural>Chadians</NationalityPlural>
+		<Currency>CFA Franc BEAC</Currency>
+		<CurrencyCode>XAF</CurrencyCode>
+		<Population>8707078</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>42</CountryID>
+		<Country>Chile</Country>
+		<Table>chile</Table>
+		<ISO2>CL</ISO2>
+		<FIPS104>CI</FIPS104>
+		<ISO3>CHL</ISO3>
+		<ISON>152</ISON>
+		<TLD>.cl</TLD>
+		<Capital>Santiago</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Chilean</NationalitySingular>
+		<NationalityPlural>Chileans</NationalityPlural>
+		<Currency>Chilean Peso</Currency>
+		<CurrencyCode>CLP</CurrencyCode>
+		<Population>15328467</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>43</CountryID>
+		<Country>China</Country>
+		<Table>china</Table>
+		<ISO2>CN</ISO2>
+		<FIPS104>CH</FIPS104>
+		<ISO3>CHN</ISO3>
+		<ISON>156</ISON>
+		<TLD>.cn</TLD>
+		<Capital>Beijing</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Chinese</NationalitySingular>
+		<NationalityPlural>Chinese</NationalityPlural>
+		<Currency>Yuan Renminbi</Currency>
+		<CurrencyCode>CNY</CurrencyCode>
+		<Population>1273111290</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>44</CountryID>
+		<Country>Clipperton Island</Country>
+		<Table>clippertonisland</Table>
+		<ISO2>NULL</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>0</ISON>
+		<TLD>NULL</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>45</CountryID>
+		<Country>Cocos (Keeling) Islands</Country>
+		<Table>cocoskeelingislands</Table>
+		<ISO2>CC</ISO2>
+		<FIPS104>CK</FIPS104>
+		<ISO3>CCK</ISO3>
+		<ISON>166</ISON>
+		<TLD>.cc</TLD>
+		<Capital>West Island</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>Cocos Islander</NationalitySingular>
+		<NationalityPlural>Cocos Islanders</NationalityPlural>
+		<Currency>Australian Dollar</Currency>
+		<CurrencyCode>AUD</CurrencyCode>
+		<Population>633</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>46</CountryID>
+		<Country>Colombia</Country>
+		<Table>colombia</Table>
+		<ISO2>CO</ISO2>
+		<FIPS104>CO</FIPS104>
+		<ISO3>COL</ISO3>
+		<ISON>170</ISON>
+		<TLD>.co</TLD>
+		<Capital>Bogota</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Colombian</NationalitySingular>
+		<NationalityPlural>Colombians</NationalityPlural>
+		<Currency>Colombian Peso</Currency>
+		<CurrencyCode>COP</CurrencyCode>
+		<Population>40349388</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>47</CountryID>
+		<Country>Republic of the Congo</Country>
+		<Table>congo</Table>
+		<ISO2>CG</ISO2>
+		<FIPS104>CF</FIPS104>
+		<ISO3>COG</ISO3>
+		<ISON>178</ISON>
+		<TLD>.cg</TLD>
+		<Capital>Brazzaville</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Congolese</NationalitySingular>
+		<NationalityPlural>Congolese</NationalityPlural>
+		<Currency>CFA Franc BEAC</Currency>
+		<CurrencyCode>XAF</CurrencyCode>
+		<Population>2894336</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>48</CountryID>
+		<Country>Cook Islands</Country>
+		<Table>cookislands</Table>
+		<ISO2>CK</ISO2>
+		<FIPS104>CW</FIPS104>
+		<ISO3>COK</ISO3>
+		<ISON>184</ISON>
+		<TLD>.ck</TLD>
+		<Capital>Avarua</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Cook Islander</NationalitySingular>
+		<NationalityPlural>Cook Islanders</NationalityPlural>
+		<Currency>New Zealand Dollar</Currency>
+		<CurrencyCode>NZD</CurrencyCode>
+		<Population>20611</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>49</CountryID>
+		<Country>Coral Sea Islands</Country>
+		<Table>coralseaislands</Table>
+		<ISO2>NULL</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>0</ISON>
+		<TLD>NULL</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>50</CountryID>
+		<Country>Costarica</Country>
+		<Table>costarica</Table>
+		<ISO2>NULL</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>0</ISON>
+		<TLD>NULL</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>51</CountryID>
+		<Country>Croatia</Country>
+		<Table>croatia</Table>
+		<ISO2>HR</ISO2>
+		<FIPS104>HR</FIPS104>
+		<ISO3>HRV</ISO3>
+		<ISON>191</ISON>
+		<TLD>.hr</TLD>
+		<Capital>Zagreb</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Croatian</NationalitySingular>
+		<NationalityPlural>Croats</NationalityPlural>
+		<Currency>Kuna</Currency>
+		<CurrencyCode>HRK</CurrencyCode>
+		<Population>4334142</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>52</CountryID>
+		<Country>Ctedivoire</Country>
+		<Table>ctedivoire</Table>
+		<ISO2>NULL</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>0</ISON>
+		<TLD>NULL</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>53</CountryID>
+		<Country>Cuba</Country>
+		<Table>cuba</Table>
+		<ISO2>CU</ISO2>
+		<FIPS104>CU</FIPS104>
+		<ISO3>CUB</ISO3>
+		<ISON>192</ISON>
+		<TLD>.cu</TLD>
+		<Capital>Havana</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Cuban</NationalitySingular>
+		<NationalityPlural>Cubans</NationalityPlural>
+		<Currency>Cuban Peso</Currency>
+		<CurrencyCode>CUP</CurrencyCode>
+		<Population>11184023</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>54</CountryID>
+		<Country>Cyprus</Country>
+		<Table>cyprus</Table>
+		<ISO2>CY</ISO2>
+		<FIPS104>CY</FIPS104>
+		<ISO3>CYP</ISO3>
+		<ISON>196</ISON>
+		<TLD>.cy</TLD>
+		<Capital>Nicosia</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Cypriot</NationalitySingular>
+		<NationalityPlural>Cypriots</NationalityPlural>
+		<Currency>Cyprus Pound</Currency>
+		<CurrencyCode>CYP</CurrencyCode>
+		<Population>762887</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>55</CountryID>
+		<Country>Czech Republic</Country>
+		<Table>czechrepublic</Table>
+		<ISO2>CZ</ISO2>
+		<FIPS104>EZ</FIPS104>
+		<ISO3>CZE</ISO3>
+		<ISON>203</ISON>
+		<TLD>.cz</TLD>
+		<Capital>Prague</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Czech</NationalitySingular>
+		<NationalityPlural>Czechs</NationalityPlural>
+		<Currency>Czech Koruna</Currency>
+		<CurrencyCode>CZK</CurrencyCode>
+		<Population>10264212</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>56</CountryID>
+		<Country>Denmark</Country>
+		<Table>denmark</Table>
+		<ISO2>DK</ISO2>
+		<FIPS104>DA</FIPS104>
+		<ISO3>DNK</ISO3>
+		<ISON>208</ISON>
+		<TLD>.dk</TLD>
+		<Capital>Copenhagen</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Danish</NationalitySingular>
+		<NationalityPlural>Danes</NationalityPlural>
+		<Currency>Danish Krone</Currency>
+		<CurrencyCode>DKK</CurrencyCode>
+		<Population>5352815</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>57</CountryID>
+		<Country>Djibouti</Country>
+		<Table>djibouti</Table>
+		<ISO2>DJ</ISO2>
+		<FIPS104>DJ</FIPS104>
+		<ISO3>DJI</ISO3>
+		<ISON>262</ISON>
+		<TLD>.dj</TLD>
+		<Capital>Djibouti</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Djiboutian</NationalitySingular>
+		<NationalityPlural>Djiboutians</NationalityPlural>
+		<Currency>Djibouti Franc</Currency>
+		<CurrencyCode>DJF</CurrencyCode>
+		<Population>460700</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>58</CountryID>
+		<Country>Dominica</Country>
+		<Table>dominica</Table>
+		<ISO2>DM</ISO2>
+		<FIPS104>DO</FIPS104>
+		<ISO3>DMA</ISO3>
+		<ISON>212</ISON>
+		<TLD>.dm</TLD>
+		<Capital>Roseau</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Dominican</NationalitySingular>
+		<NationalityPlural>Dominicans</NationalityPlural>
+		<Currency>East Caribbean Dollar</Currency>
+		<CurrencyCode>XCD</CurrencyCode>
+		<Population>70786</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>59</CountryID>
+		<Country>Dominican Republic</Country>
+		<Table>dominicanrepublic</Table>
+		<ISO2>DO</ISO2>
+		<FIPS104>DR</FIPS104>
+		<ISO3>DOM</ISO3>
+		<ISON>214</ISON>
+		<TLD>.do</TLD>
+		<Capital>Santo Domingo</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Dominican</NationalitySingular>
+		<NationalityPlural>Dominicans</NationalityPlural>
+		<Currency>Dominican Peso</Currency>
+		<CurrencyCode>DOP</CurrencyCode>
+		<Population>8581477</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>60</CountryID>
+		<Country>Ecuador</Country>
+		<Table>ecuador</Table>
+		<ISO2>EC</ISO2>
+		<FIPS104>EC</FIPS104>
+		<ISO3>ECU</ISO3>
+		<ISON>218</ISON>
+		<TLD>.ec</TLD>
+		<Capital>Quito</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Ecuadorian</NationalitySingular>
+		<NationalityPlural>Ecuadorians</NationalityPlural>
+		<Currency>US Dollar</Currency>
+		<CurrencyCode>USD</CurrencyCode>
+		<Population>13183978</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>61</CountryID>
+		<Country>Egypt</Country>
+		<Table>egypt</Table>
+		<ISO2>EG</ISO2>
+		<FIPS104>EG</FIPS104>
+		<ISO3>EGY</ISO3>
+		<ISON>818</ISON>
+		<TLD>.eg</TLD>
+		<Capital>Cairo</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Egyptian</NationalitySingular>
+		<NationalityPlural>Egyptians</NationalityPlural>
+		<Currency>Egyptian Pound</Currency>
+		<CurrencyCode>EGP</CurrencyCode>
+		<Population>69536644</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>62</CountryID>
+		<Country>El Salvador</Country>
+		<Table>elsalvador</Table>
+		<ISO2>SV</ISO2>
+		<FIPS104>ES</FIPS104>
+		<ISO3>SLV</ISO3>
+		<ISON>222</ISON>
+		<TLD>.sv</TLD>
+		<Capital>San Salvador</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Salvadoran</NationalitySingular>
+		<NationalityPlural>Salvadorans</NationalityPlural>
+		<Currency>El Salvador Colon</Currency>
+		<CurrencyCode>SVC</CurrencyCode>
+		<Population>6237662</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>63</CountryID>
+		<Country>Equatorial Guinea</Country>
+		<Table>equatorialguinea</Table>
+		<ISO2>GQ</ISO2>
+		<FIPS104>EK</FIPS104>
+		<ISO3>GNQ</ISO3>
+		<ISON>226</ISON>
+		<TLD>.gq</TLD>
+		<Capital>Malabo</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Equatorial Guinean</NationalitySingular>
+		<NationalityPlural>Equatorial Guineans</NationalityPlural>
+		<Currency>CFA Franc BEAC</Currency>
+		<CurrencyCode>XAF</CurrencyCode>
+		<Population>486060</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>64</CountryID>
+		<Country>Eritrea</Country>
+		<Table>eritrea</Table>
+		<ISO2>ER</ISO2>
+		<FIPS104>ER</FIPS104>
+		<ISO3>ERI</ISO3>
+		<ISON>232</ISON>
+		<TLD>.er</TLD>
+		<Capital>Asmara</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Eritrean</NationalitySingular>
+		<NationalityPlural>Eritreans</NationalityPlural>
+		<Currency>Nakfa</Currency>
+		<CurrencyCode>ERN</CurrencyCode>
+		<Population>4298269</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>65</CountryID>
+		<Country>Estonia</Country>
+		<Table>estonia</Table>
+		<ISO2>EE</ISO2>
+		<FIPS104>EN</FIPS104>
+		<ISO3>EST</ISO3>
+		<ISON>233</ISON>
+		<TLD>.ee</TLD>
+		<Capital>Tallinn</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Estonian</NationalitySingular>
+		<NationalityPlural>Estonians</NationalityPlural>
+		<Currency>Kroon</Currency>
+		<CurrencyCode>EEK</CurrencyCode>
+		<Population>1423316</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>66</CountryID>
+		<Country>Ethiopia</Country>
+		<Table>ethiopia</Table>
+		<ISO2>ET</ISO2>
+		<FIPS104>ET</FIPS104>
+		<ISO3>ETH</ISO3>
+		<ISON>231</ISON>
+		<TLD>.et</TLD>
+		<Capital>Addis Ababa</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Ethiopian</NationalitySingular>
+		<NationalityPlural>Ethiopians</NationalityPlural>
+		<Currency>Ethiopian Birr</Currency>
+		<CurrencyCode>ETB</CurrencyCode>
+		<Population>65891874</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>67</CountryID>
+		<Country>Ethiop Island</Country>
+		<Table>europaisland</Table>
+		<ISO2>NULL</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>0</ISON>
+		<TLD>NULL</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>68</CountryID>
+		<Country>Falkland Islands (Islas Malvinas)</Country>
+		<Table>falklandislandsislasmalvinas</Table>
+		<ISO2>FK</ISO2>
+		<FIPS104>FK</FIPS104>
+		<ISO3>FLK</ISO3>
+		<ISON>238</ISON>
+		<TLD>.fk</TLD>
+		<Capital>Stanley</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Falkland Island</NationalitySingular>
+		<NationalityPlural>Falkland Islanders</NationalityPlural>
+		<Currency>Falkland Islands Pound</Currency>
+		<CurrencyCode>FKP</CurrencyCode>
+		<Population>2895</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>69</CountryID>
+		<Country>Fiji</Country>
+		<Table>fiji</Table>
+		<ISO2>FJ</ISO2>
+		<FIPS104>FJ</FIPS104>
+		<ISO3>FJI</ISO3>
+		<ISON>242</ISON>
+		<TLD>.fj</TLD>
+		<Capital>Suva</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Fijian</NationalitySingular>
+		<NationalityPlural>Fijians</NationalityPlural>
+		<Currency>Fijian Dollar</Currency>
+		<CurrencyCode>FJD</CurrencyCode>
+		<Population>844330</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>70</CountryID>
+		<Country>Finland</Country>
+		<Table>finland</Table>
+		<ISO2>FI</ISO2>
+		<FIPS104>FI</FIPS104>
+		<ISO3>FIN</ISO3>
+		<ISON>246</ISON>
+		<TLD>.fi</TLD>
+		<Capital>Helsinki</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Finnish</NationalitySingular>
+		<NationalityPlural>Finns</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>5175783</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>71</CountryID>
+		<Country>France</Country>
+		<Table>france</Table>
+		<ISO2>FR</ISO2>
+		<FIPS104>FR</FIPS104>
+		<ISO3>FRA</ISO3>
+		<ISON>250</ISON>
+		<TLD>.fr</TLD>
+		<Capital>Paris</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Frenchman</NationalitySingular>
+		<NationalityPlural>Frenchmen</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>59551227</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>72</CountryID>
+		<Country>Gabon</Country>
+		<Table>gabon</Table>
+		<ISO2>GA</ISO2>
+		<FIPS104>GB</FIPS104>
+		<ISO3>GAB</ISO3>
+		<ISON>266</ISON>
+		<TLD>.ga</TLD>
+		<Capital>Libreville</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Gabonese</NationalitySingular>
+		<NationalityPlural>Gabonese</NationalityPlural>
+		<Currency>CFA Franc BEAC</Currency>
+		<CurrencyCode>XAF</CurrencyCode>
+		<Population>1221175</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>73</CountryID>
+		<Country>Gambia, The</Country>
+		<Table>gambiathe</Table>
+		<ISO2>GM</ISO2>
+		<FIPS104>GA</FIPS104>
+		<ISO3>GMB</ISO3>
+		<ISON>270</ISON>
+		<TLD>.gm</TLD>
+		<Capital>Banjul</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Gambian</NationalitySingular>
+		<NationalityPlural>Gambians</NationalityPlural>
+		<Currency>Dalasi</Currency>
+		<CurrencyCode>GMD</CurrencyCode>
+		<Population>1411205</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>74</CountryID>
+		<Country>Republic of Georgia</Country>
+		<Table>georgiarepublicof</Table>
+		<ISO2>NULL</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>0</ISON>
+		<TLD>NULL</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>75</CountryID>
+		<Country>Germany</Country>
+		<Table>germany</Table>
+		<ISO2>DE</ISO2>
+		<FIPS104>GM</FIPS104>
+		<ISO3>DEU</ISO3>
+		<ISON>276</ISON>
+		<TLD>.de</TLD>
+		<Capital>Berlin</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>German</NationalitySingular>
+		<NationalityPlural>Germans</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>83029536</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>76</CountryID>
+		<Country>Ghana</Country>
+		<Table>ghana</Table>
+		<ISO2>GH</ISO2>
+		<FIPS104>GH</FIPS104>
+		<ISO3>GHA</ISO3>
+		<ISON>288</ISON>
+		<TLD>.gh</TLD>
+		<Capital>Accra</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Ghanaian</NationalitySingular>
+		<NationalityPlural>Ghanaians</NationalityPlural>
+		<Currency>Cedi</Currency>
+		<CurrencyCode>GHC</CurrencyCode>
+		<Population>19894014</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>77</CountryID>
+		<Country>Gibraltar</Country>
+		<Table>gibraltar</Table>
+		<ISO2>GI</ISO2>
+		<FIPS104>GI</FIPS104>
+		<ISO3>GIB</ISO3>
+		<ISON>292</ISON>
+		<TLD>.gi</TLD>
+		<Capital>Gibraltar</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Gibraltar</NationalitySingular>
+		<NationalityPlural>Gibraltarians</NationalityPlural>
+		<Currency>Gibraltar Pound</Currency>
+		<CurrencyCode>GIP</CurrencyCode>
+		<Population>27649</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>78</CountryID>
+		<Country>Glorioso Islands</Country>
+		<Table>gloriosoislands</Table>
+		<ISO2>NULL</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>0</ISON>
+		<TLD>NULL</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>79</CountryID>
+		<Country>Greece</Country>
+		<Table>greece</Table>
+		<ISO2>GR</ISO2>
+		<FIPS104>GR</FIPS104>
+		<ISO3>GRC</ISO3>
+		<ISON>300</ISON>
+		<TLD>.gr</TLD>
+		<Capital>Athens</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Greek</NationalitySingular>
+		<NationalityPlural>Greeks</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>10623835</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>80</CountryID>
+		<Country>Grenada</Country>
+		<Table>grenada</Table>
+		<ISO2>GD</ISO2>
+		<FIPS104>GJ</FIPS104>
+		<ISO3>GRD</ISO3>
+		<ISON>308</ISON>
+		<TLD>.gd</TLD>
+		<Capital>Saint George&#39;s</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Grenadian</NationalitySingular>
+		<NationalityPlural>Grenadians</NationalityPlural>
+		<Currency>East Caribbean Dollar</Currency>
+		<CurrencyCode>XCD</CurrencyCode>
+		<Population>89227</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>81</CountryID>
+		<Country>Guatemala</Country>
+		<Table>guatemala</Table>
+		<ISO2>GT</ISO2>
+		<FIPS104>GT</FIPS104>
+		<ISO3>GTM</ISO3>
+		<ISON>320</ISON>
+		<TLD>.gt</TLD>
+		<Capital>Guatemala</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Guatemalan</NationalitySingular>
+		<NationalityPlural>Guatemalans</NationalityPlural>
+		<Currency>Quetzal</Currency>
+		<CurrencyCode>GTQ</CurrencyCode>
+		<Population>12974361</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>82</CountryID>
+		<Country>Guernsey</Country>
+		<Table>guernsey</Table>
+		<ISO2>GG</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>NULL</ISON>
+		<TLD>NULL</TLD>
+		<Capital>Saint Peter Port</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>83</CountryID>
+		<Country>Guinea</Country>
+		<Table>guinea</Table>
+		<ISO2>GN</ISO2>
+		<FIPS104>GV</FIPS104>
+		<ISO3>GIN</ISO3>
+		<ISON>324</ISON>
+		<TLD>.gn</TLD>
+		<Capital>Conakry</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Guinean</NationalitySingular>
+		<NationalityPlural>Guineans</NationalityPlural>
+		<Currency>Guinean Franc</Currency>
+		<CurrencyCode>GNF</CurrencyCode>
+		<Population>7613870</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>84</CountryID>
+		<Country>Guinea-Bissau</Country>
+		<Table>guineabissau</Table>
+		<ISO2>GW</ISO2>
+		<FIPS104>PU</FIPS104>
+		<ISO3>GNB</ISO3>
+		<ISON>624</ISON>
+		<TLD>.gw</TLD>
+		<Capital>Bissau</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Guinean</NationalitySingular>
+		<NationalityPlural>Guineans</NationalityPlural>
+		<Currency>CFA Franc BCEAO</Currency>
+		<CurrencyCode>XOF</CurrencyCode>
+		<Population>1315822</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>85</CountryID>
+		<Country>Guyana</Country>
+		<Table>guyana</Table>
+		<ISO2>GY</ISO2>
+		<FIPS104>GY</FIPS104>
+		<ISO3>GUY</ISO3>
+		<ISON>328</ISON>
+		<TLD>.gy</TLD>
+		<Capital>Georgetown</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Guyanese</NationalitySingular>
+		<NationalityPlural>Guyanese</NationalityPlural>
+		<Currency>Guyana Dollar</Currency>
+		<CurrencyCode>GYD</CurrencyCode>
+		<Population>697181</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>86</CountryID>
+		<Country>Haiti</Country>
+		<Table>haiti</Table>
+		<ISO2>HT</ISO2>
+		<FIPS104>HA</FIPS104>
+		<ISO3>HTI</ISO3>
+		<ISON>332</ISON>
+		<TLD>.ht</TLD>
+		<Capital>Port-au-Prince</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Haitian</NationalitySingular>
+		<NationalityPlural>Haitians</NationalityPlural>
+		<Currency>Gourde</Currency>
+		<CurrencyCode>HTG</CurrencyCode>
+		<Population>6964549</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>87</CountryID>
+		<Country>Heard Island And Mcdonald Islands</Country>
+		<Table>heardislandandmcdonaldislands</Table>
+		<ISO2>HM</ISO2>
+		<FIPS104>HM</FIPS104>
+		<ISO3>HMD</ISO3>
+		<ISON>334</ISON>
+		<TLD>.hm</TLD>
+		<Capital>NULL</Capital>
+		<Continent>Antarctic Region</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>Australian Dollar</Currency>
+		<CurrencyCode>AUD</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>88</CountryID>
+		<Country>Honduras</Country>
+		<Table>honduras</Table>
+		<ISO2>HN</ISO2>
+		<FIPS104>HO</FIPS104>
+		<ISO3>HND</ISO3>
+		<ISON>340</ISON>
+		<TLD>.hn</TLD>
+		<Capital>Tegucigalpa</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Honduran</NationalitySingular>
+		<NationalityPlural>Hondurans</NationalityPlural>
+		<Currency>Lempira</Currency>
+		<CurrencyCode>HNL</CurrencyCode>
+		<Population>6406052</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>89</CountryID>
+		<Country>Hong Kong</Country>
+		<Table>hongkong</Table>
+		<ISO2>HK</ISO2>
+		<FIPS104>HK</FIPS104>
+		<ISO3>HKG</ISO3>
+		<ISON>344</ISON>
+		<TLD>.hk</TLD>
+		<Capital>NULL</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>Hong Kong Dollar</Currency>
+		<CurrencyCode>HKD</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>90</CountryID>
+		<Country>Hungary</Country>
+		<Table>hungary</Table>
+		<ISO2>HU</ISO2>
+		<FIPS104>HU</FIPS104>
+		<ISO3>HUN</ISO3>
+		<ISON>348</ISON>
+		<TLD>.hu</TLD>
+		<Capital>Budapest</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Hungarian</NationalitySingular>
+		<NationalityPlural>Hungarians</NationalityPlural>
+		<Currency>Forint</Currency>
+		<CurrencyCode>HUF</CurrencyCode>
+		<Population>10106017</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>91</CountryID>
+		<Country>Iceland</Country>
+		<Table>iceland</Table>
+		<ISO2>IS</ISO2>
+		<FIPS104>IC</FIPS104>
+		<ISO3>ISL</ISO3>
+		<ISON>352</ISON>
+		<TLD>.is</TLD>
+		<Capital>Reykjavik</Capital>
+		<Continent>Arctic Region</Continent>
+		<NationalitySingular>Icelandic</NationalitySingular>
+		<NationalityPlural>Icelanders</NationalityPlural>
+		<Currency>Iceland Krona</Currency>
+		<CurrencyCode>ISK</CurrencyCode>
+		<Population>277906</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>92</CountryID>
+		<Country>India</Country>
+		<Table>india</Table>
+		<ISO2>IN</ISO2>
+		<FIPS104>IN</FIPS104>
+		<ISO3>IND</ISO3>
+		<ISON>356</ISON>
+		<TLD>.in</TLD>
+		<Capital>New Delhi</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Indian</NationalitySingular>
+		<NationalityPlural>Indians</NationalityPlural>
+		<Currency>Indian Rupee</Currency>
+		<CurrencyCode>INR</CurrencyCode>
+		<Population>1029991145</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>93</CountryID>
+		<Country>Indonesia</Country>
+		<Table>indonesia</Table>
+		<ISO2>ID</ISO2>
+		<FIPS104>ID</FIPS104>
+		<ISO3>IDN</ISO3>
+		<ISON>360</ISON>
+		<TLD>.id</TLD>
+		<Capital>Jakarta</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>Indonesian</NationalitySingular>
+		<NationalityPlural>Indonesians</NationalityPlural>
+		<Currency>Rupiah</Currency>
+		<CurrencyCode>IDR</CurrencyCode>
+		<Population>228437870</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>94</CountryID>
+		<Country>Iran</Country>
+		<Table>iran</Table>
+		<ISO2>IR</ISO2>
+		<FIPS104>IR</FIPS104>
+		<ISO3>IRN</ISO3>
+		<ISON>364</ISON>
+		<TLD>.ir</TLD>
+		<Capital>Tehran</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Iranian</NationalitySingular>
+		<NationalityPlural>Iranians</NationalityPlural>
+		<Currency>Iranian Rial</Currency>
+		<CurrencyCode>IRR</CurrencyCode>
+		<Population>66128965</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>95</CountryID>
+		<Country>Iraq</Country>
+		<Table>iraq</Table>
+		<ISO2>IQ</ISO2>
+		<FIPS104>IZ</FIPS104>
+		<ISO3>IRQ</ISO3>
+		<ISON>368</ISON>
+		<TLD>.iq</TLD>
+		<Capital>Baghdad</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Iraqi</NationalitySingular>
+		<NationalityPlural>Iraqis</NationalityPlural>
+		<Currency>Iraqi Dinar</Currency>
+		<CurrencyCode>IQD</CurrencyCode>
+		<Population>23331985</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>96</CountryID>
+		<Country>Ireland</Country>
+		<Table>ireland</Table>
+		<ISO2>IE</ISO2>
+		<FIPS104>EI</FIPS104>
+		<ISO3>IRL</ISO3>
+		<ISON>372</ISON>
+		<TLD>.ie</TLD>
+		<Capital>Dublin</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Irish</NationalitySingular>
+		<NationalityPlural>Irishmen</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>3840838</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>97</CountryID>
+		<Country>Isle of Man</Country>
+		<Table>isleofman</Table>
+		<ISO2>IM</ISO2>
+		<FIPS104>IM</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>NULL</ISON>
+		<TLD>.im</TLD>
+		<Capital>NULL</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>98</CountryID>
+		<Country>Israel</Country>
+		<Table>israel</Table>
+		<ISO2>IL</ISO2>
+		<FIPS104>IS</FIPS104>
+		<ISO3>ISR</ISO3>
+		<ISON>376</ISON>
+		<TLD>.il</TLD>
+		<Capital>Jerusalem</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Israeli</NationalitySingular>
+		<NationalityPlural>Israelis</NationalityPlural>
+		<Currency>New Israeli Sheqel</Currency>
+		<CurrencyCode>ILS</CurrencyCode>
+		<Population>5938093</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>99</CountryID>
+		<Country>Italy</Country>
+		<Table>italy</Table>
+		<ISO2>IT</ISO2>
+		<FIPS104>IT</FIPS104>
+		<ISO3>ITA</ISO3>
+		<ISON>380</ISON>
+		<TLD>.it</TLD>
+		<Capital>Rome</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Italian</NationalitySingular>
+		<NationalityPlural>Italians</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>57679825</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>100</CountryID>
+		<Country>Jamaica</Country>
+		<Table>jamaica</Table>
+		<ISO2>JM</ISO2>
+		<FIPS104>JM</FIPS104>
+		<ISO3>JAM</ISO3>
+		<ISON>388</ISON>
+		<TLD>.jm</TLD>
+		<Capital>Kingston</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Jamaican</NationalitySingular>
+		<NationalityPlural>Jamaicans</NationalityPlural>
+		<Currency>Jamaican dollar</Currency>
+		<CurrencyCode>JMD</CurrencyCode>
+		<Population>2665636</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>101</CountryID>
+		<Country>Japan</Country>
+		<Table>japan</Table>
+		<ISO2>JP</ISO2>
+		<FIPS104>JA</FIPS104>
+		<ISO3>JPN</ISO3>
+		<ISON>392</ISON>
+		<TLD>.jp</TLD>
+		<Capital>Tokyo</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Japanese</NationalitySingular>
+		<NationalityPlural>Japanese</NationalityPlural>
+		<Currency>Yen</Currency>
+		<CurrencyCode>JPY</CurrencyCode>
+		<Population>126771662</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>102</CountryID>
+		<Country>Jersey</Country>
+		<Table>jersey</Table>
+		<ISO2>JE</ISO2>
+		<FIPS104>JE</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>NULL</ISON>
+		<TLD>.je</TLD>
+		<Capital>Saint Helier</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>103</CountryID>
+		<Country>Jordan</Country>
+		<Table>jordan</Table>
+		<ISO2>JO</ISO2>
+		<FIPS104>JO</FIPS104>
+		<ISO3>JOR</ISO3>
+		<ISON>400</ISON>
+		<TLD>.jo</TLD>
+		<Capital>Amman</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Jordanian</NationalitySingular>
+		<NationalityPlural>Jordanians</NationalityPlural>
+		<Currency>Jordanian Dinar</Currency>
+		<CurrencyCode>JOD</CurrencyCode>
+		<Population>5153378</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>104</CountryID>
+		<Country>Juandenova Island</Country>
+		<Table>juandenovaisland</Table>
+		<ISO2>NULL</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>0</ISON>
+		<TLD>NULL</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>105</CountryID>
+		<Country>Kazakhstan</Country>
+		<Table>kazakhstan</Table>
+		<ISO2>KZ</ISO2>
+		<FIPS104>KZ</FIPS104>
+		<ISO3>KAZ</ISO3>
+		<ISON>398</ISON>
+		<TLD>.kz</TLD>
+		<Capital>Astana</Capital>
+		<Continent>Commonwealth of Independent States</Continent>
+		<NationalitySingular>Kazakhstani</NationalitySingular>
+		<NationalityPlural>Kazakhstanis</NationalityPlural>
+		<Currency>Tenge</Currency>
+		<CurrencyCode>KZT</CurrencyCode>
+		<Population>16731303</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>106</CountryID>
+		<Country>Kenya</Country>
+		<Table>kenya</Table>
+		<ISO2>KE</ISO2>
+		<FIPS104>KE</FIPS104>
+		<ISO3>KEN</ISO3>
+		<ISON>404</ISON>
+		<TLD>.ke</TLD>
+		<Capital>Nairobi</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Kenyan</NationalitySingular>
+		<NationalityPlural>Kenyans</NationalityPlural>
+		<Currency>Kenyan shilling</Currency>
+		<CurrencyCode>KES</CurrencyCode>
+		<Population>30765916</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>107</CountryID>
+		<Country>Kiribati</Country>
+		<Table>kiribati</Table>
+		<ISO2>KI</ISO2>
+		<FIPS104>KR</FIPS104>
+		<ISO3>KIR</ISO3>
+		<ISON>296</ISON>
+		<TLD>.ki</TLD>
+		<Capital>Tarawa</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>I-Kiribati</NationalitySingular>
+		<NationalityPlural>I-Kiribati</NationalityPlural>
+		<Currency>Australian dollar</Currency>
+		<CurrencyCode>AUD</CurrencyCode>
+		<Population>94149</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>108</CountryID>
+		<Country>Kuwait</Country>
+		<Table>kuwait</Table>
+		<ISO2>KW</ISO2>
+		<FIPS104>KU</FIPS104>
+		<ISO3>KWT</ISO3>
+		<ISON>414</ISON>
+		<TLD>.kw</TLD>
+		<Capital>Kuwait</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Kuwaiti</NationalitySingular>
+		<NationalityPlural>Kuwaitis</NationalityPlural>
+		<Currency>Kuwaiti Dinar</Currency>
+		<CurrencyCode>KWD</CurrencyCode>
+		<Population>2041961</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>109</CountryID>
+		<Country>Kyrgyzstan</Country>
+		<Table>kyrgyzstan</Table>
+		<ISO2>KG</ISO2>
+		<FIPS104>KG</FIPS104>
+		<ISO3>KGZ</ISO3>
+		<ISON>417</ISON>
+		<TLD>.kg</TLD>
+		<Capital>Bishkek</Capital>
+		<Continent>Commonwealth of Independent States</Continent>
+		<NationalitySingular>Kyrgyzstani</NationalitySingular>
+		<NationalityPlural>Kyrgyzstanis</NationalityPlural>
+		<Currency>Som</Currency>
+		<CurrencyCode>KGS</CurrencyCode>
+		<Population>4753003</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>110</CountryID>
+		<Country>Laos</Country>
+		<Table>laos</Table>
+		<ISO2>LA</ISO2>
+		<FIPS104>LA</FIPS104>
+		<ISO3>LAO</ISO3>
+		<ISON>418</ISON>
+		<TLD>.la</TLD>
+		<Capital>Vientiane</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>Lao</NationalitySingular>
+		<NationalityPlural>Laos</NationalityPlural>
+		<Currency>Kip</Currency>
+		<CurrencyCode>LAK</CurrencyCode>
+		<Population>5635967</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>111</CountryID>
+		<Country>Latvia</Country>
+		<Table>latvia</Table>
+		<ISO2>LV</ISO2>
+		<FIPS104>LG</FIPS104>
+		<ISO3>LVA</ISO3>
+		<ISON>428</ISON>
+		<TLD>.lv</TLD>
+		<Capital>Riga</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Latvian</NationalitySingular>
+		<NationalityPlural>Latvians</NationalityPlural>
+		<Currency>Latvian Lats</Currency>
+		<CurrencyCode>LVL</CurrencyCode>
+		<Population>2385231</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>112</CountryID>
+		<Country>Lebanon</Country>
+		<Table>lebanon</Table>
+		<ISO2>LB</ISO2>
+		<FIPS104>LE</FIPS104>
+		<ISO3>LBN</ISO3>
+		<ISON>422</ISON>
+		<TLD>.lb</TLD>
+		<Capital>Beirut</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Lebanese</NationalitySingular>
+		<NationalityPlural>Lebanese</NationalityPlural>
+		<Currency>Lebanese Pound</Currency>
+		<CurrencyCode>LBP</CurrencyCode>
+		<Population>3627774</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>113</CountryID>
+		<Country>Lesotho</Country>
+		<Table>lesotho</Table>
+		<ISO2>LS</ISO2>
+		<FIPS104>LT</FIPS104>
+		<ISO3>LSO</ISO3>
+		<ISON>426</ISON>
+		<TLD>.ls</TLD>
+		<Capital>Maseru</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Basotho</NationalitySingular>
+		<NationalityPlural>Mosotho</NationalityPlural>
+		<Currency>Loti</Currency>
+		<CurrencyCode>LSL</CurrencyCode>
+		<Population>2177062</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>114</CountryID>
+		<Country>Liberia</Country>
+		<Table>liberia</Table>
+		<ISO2>LR</ISO2>
+		<FIPS104>LI</FIPS104>
+		<ISO3>LBR</ISO3>
+		<ISON>430</ISON>
+		<TLD>.lr</TLD>
+		<Capital>Monrovia</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Liberian</NationalitySingular>
+		<NationalityPlural>Liberians</NationalityPlural>
+		<Currency>Liberian Dollar</Currency>
+		<CurrencyCode>LRD</CurrencyCode>
+		<Population>3225837</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>115</CountryID>
+		<Country>Libya</Country>
+		<Table>libya</Table>
+		<ISO2>LY</ISO2>
+		<FIPS104>LY</FIPS104>
+		<ISO3>LBY</ISO3>
+		<ISON>434</ISON>
+		<TLD>.ly</TLD>
+		<Capital>Tripoli</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Libyan</NationalitySingular>
+		<NationalityPlural>Libyans</NationalityPlural>
+		<Currency>Libyan Dinar</Currency>
+		<CurrencyCode>LYD</CurrencyCode>
+		<Population>5240599</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>116</CountryID>
+		<Country>Liechtenstein</Country>
+		<Table>liechtenstein</Table>
+		<ISO2>LI</ISO2>
+		<FIPS104>LS</FIPS104>
+		<ISO3>LIE</ISO3>
+		<ISON>438</ISON>
+		<TLD>.li</TLD>
+		<Capital>Vaduz</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Liechtenstein</NationalitySingular>
+		<NationalityPlural>Liechtensteiners</NationalityPlural>
+		<Currency>Swiss Franc</Currency>
+		<CurrencyCode>CHF</CurrencyCode>
+		<Population>32528</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>117</CountryID>
+		<Country>Lithuania</Country>
+		<Table>lithuania</Table>
+		<ISO2>LT</ISO2>
+		<FIPS104>LH</FIPS104>
+		<ISO3>LTU</ISO3>
+		<ISON>440</ISON>
+		<TLD>.lt</TLD>
+		<Capital>Vilnius</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Lithuanian</NationalitySingular>
+		<NationalityPlural>Lithuanians</NationalityPlural>
+		<Currency>Lithuanian Litas</Currency>
+		<CurrencyCode>LTL</CurrencyCode>
+		<Population>3610535</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>118</CountryID>
+		<Country>Luxembourg</Country>
+		<Table>luxembourg</Table>
+		<ISO2>LU</ISO2>
+		<FIPS104>LU</FIPS104>
+		<ISO3>LUX</ISO3>
+		<ISON>442</ISON>
+		<TLD>.lu</TLD>
+		<Capital>Luxembourg</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Luxembourg</NationalitySingular>
+		<NationalityPlural>Luxembourgers</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>442972</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>119</CountryID>
+		<Country>Macau</Country>
+		<Table>macau</Table>
+		<ISO2>MO</ISO2>
+		<FIPS104>MC</FIPS104>
+		<ISO3>MAC</ISO3>
+		<ISON>446</ISON>
+		<TLD>.mo</TLD>
+		<Capital>NULL</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>Chinese</NationalitySingular>
+		<NationalityPlural>Chinese</NationalityPlural>
+		<Currency>Pataca</Currency>
+		<CurrencyCode>MOP</CurrencyCode>
+		<Population>453733</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>120</CountryID>
+		<Country>The Former Yugoslav Republic of Macedonia</Country>
+		<Table>macedoniatheformeryugoslavrepublicof</Table>
+		<ISO2>MK</ISO2>
+		<FIPS104>MK</FIPS104>
+		<ISO3>MKD</ISO3>
+		<ISON>807</ISON>
+		<TLD>.mk</TLD>
+		<Capital>Skopje</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Macedonian</NationalitySingular>
+		<NationalityPlural>Macedonians</NationalityPlural>
+		<Currency>Denar</Currency>
+		<CurrencyCode>MKD</CurrencyCode>
+		<Population>2046209</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>121</CountryID>
+		<Country>Madagascar</Country>
+		<Table>madagascar</Table>
+		<ISO2>MG</ISO2>
+		<FIPS104>MA</FIPS104>
+		<ISO3>MDG</ISO3>
+		<ISON>450</ISON>
+		<TLD>.mg</TLD>
+		<Capital>Antananarivo</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Malagasy</NationalitySingular>
+		<NationalityPlural>Malagasy</NationalityPlural>
+		<Currency>Malagasy Franc</Currency>
+		<CurrencyCode>MGF</CurrencyCode>
+		<Population>15982563</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>122</CountryID>
+		<Country>Malawi</Country>
+		<Table>malawi</Table>
+		<ISO2>MW</ISO2>
+		<FIPS104>MI</FIPS104>
+		<ISO3>MWI</ISO3>
+		<ISON>454</ISON>
+		<TLD>.mw</TLD>
+		<Capital>Lilongwe</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Malawian</NationalitySingular>
+		<NationalityPlural>Malawians</NationalityPlural>
+		<Currency>Kwacha</Currency>
+		<CurrencyCode>MWK</CurrencyCode>
+		<Population>10548250</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>123</CountryID>
+		<Country>Malaysia</Country>
+		<Table>malaysia</Table>
+		<ISO2>MY</ISO2>
+		<FIPS104>MY</FIPS104>
+		<ISO3>MYS</ISO3>
+		<ISON>458</ISON>
+		<TLD>.my</TLD>
+		<Capital>Kuala Lumpur</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>Malaysian</NationalitySingular>
+		<NationalityPlural>Malaysians</NationalityPlural>
+		<Currency>Malaysian Ringgit</Currency>
+		<CurrencyCode>MYR</CurrencyCode>
+		<Population>22229040</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>124</CountryID>
+		<Country>Maldives</Country>
+		<Table>maldives</Table>
+		<ISO2>MV</ISO2>
+		<FIPS104>MV</FIPS104>
+		<ISO3>MDV</ISO3>
+		<ISON>462</ISON>
+		<TLD>.mv</TLD>
+		<Capital>Male</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Maldivian</NationalitySingular>
+		<NationalityPlural>Maldivians</NationalityPlural>
+		<Currency>Rufiyaa</Currency>
+		<CurrencyCode>MVR</CurrencyCode>
+		<Population>310764</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>125</CountryID>
+		<Country>Mali</Country>
+		<Table>mali</Table>
+		<ISO2>ML</ISO2>
+		<FIPS104>ML</FIPS104>
+		<ISO3>MLI</ISO3>
+		<ISON>466</ISON>
+		<TLD>.ml</TLD>
+		<Capital>Bamako</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Malian</NationalitySingular>
+		<NationalityPlural>Malians</NationalityPlural>
+		<Currency>CFA Franc BCEAO</Currency>
+		<CurrencyCode>XOF</CurrencyCode>
+		<Population>11008518</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>126</CountryID>
+		<Country>Malta</Country>
+		<Table>malta</Table>
+		<ISO2>MT</ISO2>
+		<FIPS104>MT</FIPS104>
+		<ISO3>MLT</ISO3>
+		<ISON>470</ISON>
+		<TLD>.mt</TLD>
+		<Capital>Valletta</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Maltese</NationalitySingular>
+		<NationalityPlural>Maltese</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>394583</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>127</CountryID>
+		<Country>Marshall Islands</Country>
+		<Table>marshallislands</Table>
+		<ISO2>MH</ISO2>
+		<FIPS104>RM</FIPS104>
+		<ISO3>MHL</ISO3>
+		<ISON>584</ISON>
+		<TLD>.mh</TLD>
+		<Capital>Majuro</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Marshallese</NationalitySingular>
+		<NationalityPlural>Marshallese</NationalityPlural>
+		<Currency>US Dollar</Currency>
+		<CurrencyCode>USD</CurrencyCode>
+		<Population>70822</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>128</CountryID>
+		<Country>Mauritania</Country>
+		<Table>mauritania</Table>
+		<ISO2>MR</ISO2>
+		<FIPS104>MR</FIPS104>
+		<ISO3>MRT</ISO3>
+		<ISON>478</ISON>
+		<TLD>.mr</TLD>
+		<Capital>Nouakchott</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Mauritanian</NationalitySingular>
+		<NationalityPlural>Mauritanians</NationalityPlural>
+		<Currency>Ouguiya</Currency>
+		<CurrencyCode>MRO</CurrencyCode>
+		<Population>2747312</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>129</CountryID>
+		<Country>Mauritius</Country>
+		<Table>mauritius</Table>
+		<ISO2>MU</ISO2>
+		<FIPS104>MP</FIPS104>
+		<ISO3>MUS</ISO3>
+		<ISON>480</ISON>
+		<TLD>.mu</TLD>
+		<Capital>Port Louis</Capital>
+		<Continent>World Others</Continent>
+		<NationalitySingular>Mauritian</NationalitySingular>
+		<NationalityPlural>Mauritians</NationalityPlural>
+		<Currency>Mauritius Rupee</Currency>
+		<CurrencyCode>MUR</CurrencyCode>
+		<Population>1189825</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>130</CountryID>
+		<Country>Mayotte</Country>
+		<Table>mayotte</Table>
+		<ISO2>YT</ISO2>
+		<FIPS104>MF</FIPS104>
+		<ISO3>MYT</ISO3>
+		<ISON>175</ISON>
+		<TLD>.yt</TLD>
+		<Capital>Mamoutzou</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Mahorais</NationalitySingular>
+		<NationalityPlural>Mahorais</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>163366</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>131</CountryID>
+		<Country>Mexico</Country>
+		<Table>mexico</Table>
+		<ISO2>MX</ISO2>
+		<FIPS104>MX</FIPS104>
+		<ISO3>MEX</ISO3>
+		<ISON>484</ISON>
+		<TLD>.mx</TLD>
+		<Capital>Mexico</Capital>
+		<Continent>North America</Continent>
+		<NationalitySingular>Mexican</NationalitySingular>
+		<NationalityPlural>Mexicans</NationalityPlural>
+		<Currency>Mexican Peso</Currency>
+		<CurrencyCode>MXN</CurrencyCode>
+		<Population>101879171</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>132</CountryID>
+		<Country>Republic of Moldova</Country>
+		<Table>moldova</Table>
+		<ISO2>MD</ISO2>
+		<FIPS104>MD</FIPS104>
+		<ISO3>MDA</ISO3>
+		<ISON>498</ISON>
+		<TLD>.md</TLD>
+		<Capital>Chisinau</Capital>
+		<Continent>Commonwealth of Independent States</Continent>
+		<NationalitySingular>Moldovan</NationalitySingular>
+		<NationalityPlural>Moldovans</NationalityPlural>
+		<Currency>Moldovan Leu</Currency>
+		<CurrencyCode>MDL</CurrencyCode>
+		<Population>4431570</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>133</CountryID>
+		<Country>Monaco</Country>
+		<Table>monaco</Table>
+		<ISO2>MC</ISO2>
+		<FIPS104>MN</FIPS104>
+		<ISO3>MCO</ISO3>
+		<ISON>492</ISON>
+		<TLD>.mc</TLD>
+		<Capital>Monaco</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Monegasque</NationalitySingular>
+		<NationalityPlural>Monegasques</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>31842</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>134</CountryID>
+		<Country>Mongolia</Country>
+		<Table>mongolia</Table>
+		<ISO2>MN</ISO2>
+		<FIPS104>MG</FIPS104>
+		<ISO3>MNG</ISO3>
+		<ISON>496</ISON>
+		<TLD>.mn</TLD>
+		<Capital>Ulaanbaatar</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Mongolian</NationalitySingular>
+		<NationalityPlural>Mongolians</NationalityPlural>
+		<Currency>Tugrik</Currency>
+		<CurrencyCode>MNT</CurrencyCode>
+		<Population>2654999</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>135</CountryID>
+		<Country>Montenegro</Country>
+		<Table>montenegro</Table>
+		<ISO2>ME</ISO2>
+		<FIPS104>MJ</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>NULL</ISON>
+		<TLD>.me</TLD>
+		<Capital>Podgorica</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>136</CountryID>
+		<Country>Montserrat</Country>
+		<Table>montserrat</Table>
+		<ISO2>MS</ISO2>
+		<FIPS104>MH</FIPS104>
+		<ISO3>MSR</ISO3>
+		<ISON>500</ISON>
+		<TLD>.ms</TLD>
+		<Capital>Plymouth</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Montserratian</NationalitySingular>
+		<NationalityPlural>Montserratians</NationalityPlural>
+		<Currency>East Caribbean Dollar</Currency>
+		<CurrencyCode>XCD</CurrencyCode>
+		<Population>7574</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>137</CountryID>
+		<Country>Morocco</Country>
+		<Table>morocco</Table>
+		<ISO2>MA</ISO2>
+		<FIPS104>MO</FIPS104>
+		<ISO3>MAR</ISO3>
+		<ISON>504</ISON>
+		<TLD>.ma</TLD>
+		<Capital>Rabat</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Moroccan</NationalitySingular>
+		<NationalityPlural>Moroccans</NationalityPlural>
+		<Currency>Moroccan Dirham</Currency>
+		<CurrencyCode>MAD</CurrencyCode>
+		<Population>30645305</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>138</CountryID>
+		<Country>Mozambique</Country>
+		<Table>mozambique</Table>
+		<ISO2>MZ</ISO2>
+		<FIPS104>MZ</FIPS104>
+		<ISO3>MOZ</ISO3>
+		<ISON>508</ISON>
+		<TLD>.mz</TLD>
+		<Capital>Maputo</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Mozambican</NationalitySingular>
+		<NationalityPlural>Mozambicans</NationalityPlural>
+		<Currency>Metical</Currency>
+		<CurrencyCode>MZM</CurrencyCode>
+		<Population>19371057</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>139</CountryID>
+		<Country>Namibia</Country>
+		<Table>namibia</Table>
+		<ISO2>NA</ISO2>
+		<FIPS104>WA</FIPS104>
+		<ISO3>NAM</ISO3>
+		<ISON>516</ISON>
+		<TLD>.na</TLD>
+		<Capital>Windhoek</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Namibian</NationalitySingular>
+		<NationalityPlural>Namibians</NationalityPlural>
+		<Currency>Namibian Dollar</Currency>
+		<CurrencyCode>NAD</CurrencyCode>
+		<Population>1797677</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>140</CountryID>
+		<Country>Nauru</Country>
+		<Table>naoero</Table>
+		<ISO2>NR</ISO2>
+		<FIPS104>NR</FIPS104>
+		<ISO3>NRU</ISO3>
+		<ISON>520</ISON>
+		<TLD>.nr</TLD>
+		<Capital>NULL</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Nauruan</NationalitySingular>
+		<NationalityPlural>Nauruans</NationalityPlural>
+		<Currency>Australian Dollar</Currency>
+		<CurrencyCode>AUD</CurrencyCode>
+		<Population>12088</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>141</CountryID>
+		<Country>Nepal</Country>
+		<Table>nepal</Table>
+		<ISO2>NP</ISO2>
+		<FIPS104>NP</FIPS104>
+		<ISO3>NPL</ISO3>
+		<ISON>524</ISON>
+		<TLD>.np</TLD>
+		<Capital>Kathmandu</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Nepalese</NationalitySingular>
+		<NationalityPlural>Nepalese</NationalityPlural>
+		<Currency>Nepalese Rupee</Currency>
+		<CurrencyCode>NPR</CurrencyCode>
+		<Population>25284463</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>142</CountryID>
+		<Country>Netherlands</Country>
+		<Table>netherlands</Table>
+		<ISO2>NL</ISO2>
+		<FIPS104>NL</FIPS104>
+		<ISO3>NLD</ISO3>
+		<ISON>528</ISON>
+		<TLD>.nl</TLD>
+		<Capital>Amsterdam</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Dutchman</NationalitySingular>
+		<NationalityPlural>Dutchmen</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>15981472</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>143</CountryID>
+		<Country>New Zealand</Country>
+		<Table>newzealand</Table>
+		<ISO2>NZ</ISO2>
+		<FIPS104>NZ</FIPS104>
+		<ISO3>NZL</ISO3>
+		<ISON>554</ISON>
+		<TLD>.nz</TLD>
+		<Capital>Wellington</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>New Zealand</NationalitySingular>
+		<NationalityPlural>New Zealanders</NationalityPlural>
+		<Currency>New Zealand Dollar</Currency>
+		<CurrencyCode>NZD</CurrencyCode>
+		<Population>3864129</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>144</CountryID>
+		<Country>Nicaragua</Country>
+		<Table>nicaragua</Table>
+		<ISO2>NI</ISO2>
+		<FIPS104>NU</FIPS104>
+		<ISO3>NIC</ISO3>
+		<ISON>558</ISON>
+		<TLD>.ni</TLD>
+		<Capital>Managua</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Nicaraguan</NationalitySingular>
+		<NationalityPlural>Nicaraguans</NationalityPlural>
+		<Currency>Cordoba Oro</Currency>
+		<CurrencyCode>NIO</CurrencyCode>
+		<Population>4918393</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>145</CountryID>
+		<Country>Niger</Country>
+		<Table>niger</Table>
+		<ISO2>NE</ISO2>
+		<FIPS104>NG</FIPS104>
+		<ISO3>NER</ISO3>
+		<ISON>562</ISON>
+		<TLD>.ne</TLD>
+		<Capital>Niamey</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Nigerien</NationalitySingular>
+		<NationalityPlural>Nigeriens</NationalityPlural>
+		<Currency>CFA Franc BCEAO</Currency>
+		<CurrencyCode>XOF</CurrencyCode>
+		<Population>10355156</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>146</CountryID>
+		<Country>Nigeria</Country>
+		<Table>nigeria</Table>
+		<ISO2>NG</ISO2>
+		<FIPS104>NI</FIPS104>
+		<ISO3>NGA</ISO3>
+		<ISON>566</ISON>
+		<TLD>.ng</TLD>
+		<Capital>Abuja</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Nigerian</NationalitySingular>
+		<NationalityPlural>Nigerians</NationalityPlural>
+		<Currency>Naira</Currency>
+		<CurrencyCode>NGN</CurrencyCode>
+		<Population>126635626</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>147</CountryID>
+		<Country>Niue</Country>
+		<Table>niue</Table>
+		<ISO2>NU</ISO2>
+		<FIPS104>NE</FIPS104>
+		<ISO3>NIU</ISO3>
+		<ISON>570</ISON>
+		<TLD>.nu</TLD>
+		<Capital>Alofi</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Niuean</NationalitySingular>
+		<NationalityPlural>Niueans</NationalityPlural>
+		<Currency>New Zealand Dollar</Currency>
+		<CurrencyCode>NZD</CurrencyCode>
+		<Population>2124</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>148</CountryID>
+		<Country>Norfolk Island</Country>
+		<Table>norfolkisland</Table>
+		<ISO2>NF</ISO2>
+		<FIPS104>NF</FIPS104>
+		<ISO3>NFK</ISO3>
+		<ISON>574</ISON>
+		<TLD>.nf</TLD>
+		<Capital>Kingston</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Norfolk Islander</NationalitySingular>
+		<NationalityPlural>Norfolk Islanders</NationalityPlural>
+		<Currency>Australian Dollar</Currency>
+		<CurrencyCode>AUD</CurrencyCode>
+		<Population>1879</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>149</CountryID>
+		<Country>North Korea</Country>
+		<Table>northkorea</Table>
+		<ISO2>KP</ISO2>
+		<FIPS104>KN</FIPS104>
+		<ISO3>PRK</ISO3>
+		<ISON>408</ISON>
+		<TLD>.kp</TLD>
+		<Capital>P&#39;yongyang</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Korean</NationalitySingular>
+		<NationalityPlural>Koreans</NationalityPlural>
+		<Currency>North Korean Won</Currency>
+		<CurrencyCode>KPW</CurrencyCode>
+		<Population>21968228</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>150</CountryID>
+		<Country>Norway</Country>
+		<Table>norway</Table>
+		<ISO2>NO</ISO2>
+		<FIPS104>NO</FIPS104>
+		<ISO3>NOR</ISO3>
+		<ISON>578</ISON>
+		<TLD>.no</TLD>
+		<Capital>Oslo</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Norwegian</NationalitySingular>
+		<NationalityPlural>Norwegians</NationalityPlural>
+		<Currency>Norwegian Krone</Currency>
+		<CurrencyCode>NOK</CurrencyCode>
+		<Population>4503440</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>151</CountryID>
+		<Country>Oman</Country>
+		<Table>oman</Table>
+		<ISO2>OM</ISO2>
+		<FIPS104>MU</FIPS104>
+		<ISO3>OMN</ISO3>
+		<ISON>512</ISON>
+		<TLD>.om</TLD>
+		<Capital>Muscat</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Omani</NationalitySingular>
+		<NationalityPlural>Omanis</NationalityPlural>
+		<Currency>Rial Omani</Currency>
+		<CurrencyCode>OMR</CurrencyCode>
+		<Population>2622198</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>152</CountryID>
+		<Country>Pakistan</Country>
+		<Table>pakistan</Table>
+		<ISO2>PK</ISO2>
+		<FIPS104>PK</FIPS104>
+		<ISO3>PAK</ISO3>
+		<ISON>586</ISON>
+		<TLD>.pk</TLD>
+		<Capital>Islamabad</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Pakistani</NationalitySingular>
+		<NationalityPlural>Pakistanis</NationalityPlural>
+		<Currency>Pakistan Rupee</Currency>
+		<CurrencyCode>PKR</CurrencyCode>
+		<Population>144616639</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>153</CountryID>
+		<Country>Panama</Country>
+		<Table>panama</Table>
+		<ISO2>PA</ISO2>
+		<FIPS104>PM</FIPS104>
+		<ISO3>PAN</ISO3>
+		<ISON>591</ISON>
+		<TLD>.pa</TLD>
+		<Capital>Panama</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Panamanian</NationalitySingular>
+		<NationalityPlural>Panamanians</NationalityPlural>
+		<Currency>balboa</Currency>
+		<CurrencyCode>PAB</CurrencyCode>
+		<Population>2845647</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>154</CountryID>
+		<Country>Papua New Guinea</Country>
+		<Table>papuanewguinea</Table>
+		<ISO2>PG</ISO2>
+		<FIPS104>PP</FIPS104>
+		<ISO3>PNG</ISO3>
+		<ISON>598</ISON>
+		<TLD>.pg</TLD>
+		<Capital>Port Moresby</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Papua New Guinean</NationalitySingular>
+		<NationalityPlural>Papua New Guineans</NationalityPlural>
+		<Currency>Kina</Currency>
+		<CurrencyCode>PGK</CurrencyCode>
+		<Population>5049055</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>155</CountryID>
+		<Country>Paraguay</Country>
+		<Table>paraguay</Table>
+		<ISO2>PY</ISO2>
+		<FIPS104>PA</FIPS104>
+		<ISO3>PRY</ISO3>
+		<ISON>600</ISON>
+		<TLD>.py</TLD>
+		<Capital>Asuncion</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Paraguayan</NationalitySingular>
+		<NationalityPlural>Paraguayans</NationalityPlural>
+		<Currency>Guarani</Currency>
+		<CurrencyCode>PYG</CurrencyCode>
+		<Population>5734139</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>156</CountryID>
+		<Country>Peru</Country>
+		<Table>peru</Table>
+		<ISO2>PE</ISO2>
+		<FIPS104>PE</FIPS104>
+		<ISO3>PER</ISO3>
+		<ISON>604</ISON>
+		<TLD>.pe</TLD>
+		<Capital>Lima</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Peruvian</NationalitySingular>
+		<NationalityPlural>Peruvians</NationalityPlural>
+		<Currency>Nuevo Sol</Currency>
+		<CurrencyCode>PEN</CurrencyCode>
+		<Population>27483864</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>157</CountryID>
+		<Country>Philippines</Country>
+		<Table>philippines</Table>
+		<ISO2>PH</ISO2>
+		<FIPS104>RP</FIPS104>
+		<ISO3>PHL</ISO3>
+		<ISON>608</ISON>
+		<TLD>.ph</TLD>
+		<Capital>Manila</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>Philippine</NationalitySingular>
+		<NationalityPlural>Filipinos</NationalityPlural>
+		<Currency>Philippine Peso</Currency>
+		<CurrencyCode>PHP</CurrencyCode>
+		<Population>82841518</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>158</CountryID>
+		<Country>Pitcairn Islands</Country>
+		<Table>pitcairnislands</Table>
+		<ISO2>PN</ISO2>
+		<FIPS104>PC</FIPS104>
+		<ISO3>PCN</ISO3>
+		<ISON>612</ISON>
+		<TLD>.pn</TLD>
+		<Capital>Adamstown</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Pitcairn Islander</NationalitySingular>
+		<NationalityPlural>Pitcairn Islanders</NationalityPlural>
+		<Currency>New Zealand Dollar</Currency>
+		<CurrencyCode>NZD</CurrencyCode>
+		<Population>47</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>159</CountryID>
+		<Country>Poland</Country>
+		<Table>poland</Table>
+		<ISO2>PL</ISO2>
+		<FIPS104>PL</FIPS104>
+		<ISO3>POL</ISO3>
+		<ISON>616</ISON>
+		<TLD>.pl</TLD>
+		<Capital>Warsaw</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Polish</NationalitySingular>
+		<NationalityPlural>Poles</NationalityPlural>
+		<Currency>Zloty</Currency>
+		<CurrencyCode>PLN</CurrencyCode>
+		<Population>38633912</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>160</CountryID>
+		<Country>Portugal</Country>
+		<Table>portugal</Table>
+		<ISO2>PT</ISO2>
+		<FIPS104>PO</FIPS104>
+		<ISO3>PRT</ISO3>
+		<ISON>620</ISON>
+		<TLD>.pt</TLD>
+		<Capital>Lisbon</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Portuguese</NationalitySingular>
+		<NationalityPlural>Portuguese</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>10066253</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>161</CountryID>
+		<Country>Qatar</Country>
+		<Table>qatar</Table>
+		<ISO2>QA</ISO2>
+		<FIPS104>QA</FIPS104>
+		<ISO3>QAT</ISO3>
+		<ISON>634</ISON>
+		<TLD>.qa</TLD>
+		<Capital>Doha</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Qatari</NationalitySingular>
+		<NationalityPlural>Qataris</NationalityPlural>
+		<Currency>Qatari Rial</Currency>
+		<CurrencyCode>QAR</CurrencyCode>
+		<Population>769152</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>162</CountryID>
+		<Country>Romania</Country>
+		<Table>romania</Table>
+		<ISO2>RO</ISO2>
+		<FIPS104>RO</FIPS104>
+		<ISO3>ROU</ISO3>
+		<ISON>642</ISON>
+		<TLD>.ro</TLD>
+		<Capital>Bucharest</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Romanian</NationalitySingular>
+		<NationalityPlural>Romanians</NationalityPlural>
+		<Currency>Leu</Currency>
+		<CurrencyCode>ROL</CurrencyCode>
+		<Population>22364022</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>163</CountryID>
+		<Country>Russia</Country>
+		<Table>russia</Table>
+		<ISO2>RU</ISO2>
+		<FIPS104>RS</FIPS104>
+		<ISO3>RUS</ISO3>
+		<ISON>643</ISON>
+		<TLD>.ru</TLD>
+		<Capital>Moscow</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Russian</NationalitySingular>
+		<NationalityPlural>Russians</NationalityPlural>
+		<Currency>Russian Ruble</Currency>
+		<CurrencyCode>RUB</CurrencyCode>
+		<Population>145470197</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>164</CountryID>
+		<Country>Rwanda</Country>
+		<Table>rwanda</Table>
+		<ISO2>RW</ISO2>
+		<FIPS104>RW</FIPS104>
+		<ISO3>RWA</ISO3>
+		<ISON>646</ISON>
+		<TLD>.rw</TLD>
+		<Capital>Kigali</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Rwandan</NationalitySingular>
+		<NationalityPlural>Rwandans</NationalityPlural>
+		<Currency>Rwanda Franc</Currency>
+		<CurrencyCode>RWF</CurrencyCode>
+		<Population>7312756</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>165</CountryID>
+		<Country>Saint Kitts and Nevis</Country>
+		<Table>saintkittsandnevis</Table>
+		<ISO2>KN</ISO2>
+		<FIPS104>SC</FIPS104>
+		<ISO3>KNA</ISO3>
+		<ISON>659</ISON>
+		<TLD>.kn</TLD>
+		<Capital>Basseterre</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Kittitian and Nevisian</NationalitySingular>
+		<NationalityPlural>Kittitians and Nevisians</NationalityPlural>
+		<Currency>East Caribbean Dollar</Currency>
+		<CurrencyCode>XCD</CurrencyCode>
+		<Population>38756</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>166</CountryID>
+		<Country>Saint Lucia</Country>
+		<Table>saintlucia</Table>
+		<ISO2>LC</ISO2>
+		<FIPS104>ST</FIPS104>
+		<ISO3>LCA</ISO3>
+		<ISON>662</ISON>
+		<TLD>.lc</TLD>
+		<Capital>Castries</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Saint Lucian</NationalitySingular>
+		<NationalityPlural>Saint Lucians</NationalityPlural>
+		<Currency>East Caribbean Dollar</Currency>
+		<CurrencyCode>XCD</CurrencyCode>
+		<Population>158178</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>167</CountryID>
+		<Country>Saint Vincent and the Grenadines</Country>
+		<Table>saintvincentandthegrenadines</Table>
+		<ISO2>VC</ISO2>
+		<FIPS104>VC</FIPS104>
+		<ISO3>VCT</ISO3>
+		<ISON>670</ISON>
+		<TLD>.vc</TLD>
+		<Capital>Kingstown</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Saint Vincentian</NationalitySingular>
+		<NationalityPlural>Saint Vincentians</NationalityPlural>
+		<Currency>East Caribbean Dollar</Currency>
+		<CurrencyCode>XCD</CurrencyCode>
+		<Population>115942</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>168</CountryID>
+		<Country>Samoa</Country>
+		<Table>samoa</Table>
+		<ISO2>WS</ISO2>
+		<FIPS104>WS</FIPS104>
+		<ISO3>WSM</ISO3>
+		<ISON>882</ISON>
+		<TLD>.ws</TLD>
+		<Capital>Apia</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Samoan</NationalitySingular>
+		<NationalityPlural>Samoans</NationalityPlural>
+		<Currency>Tala</Currency>
+		<CurrencyCode>WST</CurrencyCode>
+		<Population>179058</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>169</CountryID>
+		<Country>San Marino</Country>
+		<Table>sanmarino</Table>
+		<ISO2>SM</ISO2>
+		<FIPS104>SM</FIPS104>
+		<ISO3>SMR</ISO3>
+		<ISON>674</ISON>
+		<TLD>.sm</TLD>
+		<Capital>San Marino</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Sammarinese</NationalitySingular>
+		<NationalityPlural>Sammarinese</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>27336</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>170</CountryID>
+		<Country>Sao Tome and Principe</Country>
+		<Table>saotomeandprincipe</Table>
+		<ISO2>ST</ISO2>
+		<FIPS104>TP</FIPS104>
+		<ISO3>STP</ISO3>
+		<ISON>678</ISON>
+		<TLD>.st</TLD>
+		<Capital>Sao Tome</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Sao Tomean</NationalitySingular>
+		<NationalityPlural>Sao Tomeans</NationalityPlural>
+		<Currency>Dobra</Currency>
+		<CurrencyCode>STD</CurrencyCode>
+		<Population>165034</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>171</CountryID>
+		<Country>Saudi Arabia</Country>
+		<Table>saudiarabia</Table>
+		<ISO2>SA</ISO2>
+		<FIPS104>SA</FIPS104>
+		<ISO3>SAU</ISO3>
+		<ISON>682</ISON>
+		<TLD>.sa</TLD>
+		<Capital>Riyadh</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Saudi Arabian</NationalitySingular>
+		<NationalityPlural>Saudis</NationalityPlural>
+		<Currency>Saudi Riyal</Currency>
+		<CurrencyCode>SAR</CurrencyCode>
+		<Population>22757092</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>172</CountryID>
+		<Country>Senegal</Country>
+		<Table>senegal</Table>
+		<ISO2>SN</ISO2>
+		<FIPS104>SG</FIPS104>
+		<ISO3>SEN</ISO3>
+		<ISON>686</ISON>
+		<TLD>.sn</TLD>
+		<Capital>Dakar</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Senegalese</NationalitySingular>
+		<NationalityPlural>Senegalese</NationalityPlural>
+		<Currency>CFA Franc BCEAO</Currency>
+		<CurrencyCode>XOF</CurrencyCode>
+		<Population>10284929</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>173</CountryID>
+		<Country>Serbia</Country>
+		<Table>serbia</Table>
+		<ISO2>RS</ISO2>
+		<FIPS104>RI</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>NULL</ISON>
+		<TLD>.rs</TLD>
+		<Capital>NULL</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>174</CountryID>
+		<Country>Seychelles</Country>
+		<Table>seychelles</Table>
+		<ISO2>SC</ISO2>
+		<FIPS104>SE</FIPS104>
+		<ISO3>SYC</ISO3>
+		<ISON>690</ISON>
+		<TLD>.sc</TLD>
+		<Capital>Victoria</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Seychellois</NationalitySingular>
+		<NationalityPlural>Seychellois</NationalityPlural>
+		<Currency>Seychelles Rupee</Currency>
+		<CurrencyCode>SCR</CurrencyCode>
+		<Population>79715</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>175</CountryID>
+		<Country>Sierra Leone</Country>
+		<Table>sierraleone</Table>
+		<ISO2>SL</ISO2>
+		<FIPS104>SL</FIPS104>
+		<ISO3>SLE</ISO3>
+		<ISON>694</ISON>
+		<TLD>.sl</TLD>
+		<Capital>Freetown</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Sierra Leonean</NationalitySingular>
+		<NationalityPlural>Sierra Leoneans</NationalityPlural>
+		<Currency>Leone</Currency>
+		<CurrencyCode>SLL</CurrencyCode>
+		<Population>5426618</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>176</CountryID>
+		<Country>Singapore</Country>
+		<Table>singapore</Table>
+		<ISO2>SG</ISO2>
+		<FIPS104>SN</FIPS104>
+		<ISO3>SGP</ISO3>
+		<ISON>702</ISON>
+		<TLD>.sg</TLD>
+		<Capital>Singapore</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>Singaporeian</NationalitySingular>
+		<NationalityPlural>Singaporeans</NationalityPlural>
+		<Currency>Singapore Dollar</Currency>
+		<CurrencyCode>SGD</CurrencyCode>
+		<Population>4300419</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>177</CountryID>
+		<Country>Slovakia</Country>
+		<Table>slovakia</Table>
+		<ISO2>SK</ISO2>
+		<FIPS104>LO</FIPS104>
+		<ISO3>SVK</ISO3>
+		<ISON>703</ISON>
+		<TLD>.sk</TLD>
+		<Capital>Bratislava</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Slovakian</NationalitySingular>
+		<NationalityPlural>Slovaks</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>5414937</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>178</CountryID>
+		<Country>Slovenia</Country>
+		<Table>slovenia</Table>
+		<ISO2>SI</ISO2>
+		<FIPS104>SI</FIPS104>
+		<ISO3>SVN</ISO3>
+		<ISON>705</ISON>
+		<TLD>.si</TLD>
+		<Capital>Ljubljana</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Slovenian</NationalitySingular>
+		<NationalityPlural>Slovenes</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>1930132</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>179</CountryID>
+		<Country>Solomon Islands</Country>
+		<Table>solomonislands</Table>
+		<ISO2>SB</ISO2>
+		<FIPS104>BP</FIPS104>
+		<ISO3>SLB</ISO3>
+		<ISON>90</ISON>
+		<TLD>.sb</TLD>
+		<Capital>Honiara</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Solomon Islander</NationalitySingular>
+		<NationalityPlural>Solomon Islanders</NationalityPlural>
+		<Currency>Solomon Islands Dollar</Currency>
+		<CurrencyCode>SBD</CurrencyCode>
+		<Population>480442</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>180</CountryID>
+		<Country>Somalia</Country>
+		<Table>somalia</Table>
+		<ISO2>SO</ISO2>
+		<FIPS104>SO</FIPS104>
+		<ISO3>SOM</ISO3>
+		<ISON>706</ISON>
+		<TLD>.so</TLD>
+		<Capital>Mogadishu</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Somali</NationalitySingular>
+		<NationalityPlural>Somalis</NationalityPlural>
+		<Currency>Somali Shilling</Currency>
+		<CurrencyCode>SOS</CurrencyCode>
+		<Population>7488773</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>181</CountryID>
+		<Country>South Africa</Country>
+		<Table>southafrica</Table>
+		<ISO2>ZA</ISO2>
+		<FIPS104>SF</FIPS104>
+		<ISO3>ZAF</ISO3>
+		<ISON>710</ISON>
+		<TLD>.za</TLD>
+		<Capital>Pretoria</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>South African</NationalitySingular>
+		<NationalityPlural>South Africans</NationalityPlural>
+		<Currency>Rand</Currency>
+		<CurrencyCode>ZAR</CurrencyCode>
+		<Population>43586097</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>182</CountryID>
+		<Country>South Georgia and the Islands</Country>
+		<Table>southgeorgiaandthesouthsandwichislands</Table>
+		<ISO2>GS</ISO2>
+		<FIPS104>SX</FIPS104>
+		<ISO3>SGS</ISO3>
+		<ISON>239</ISON>
+		<TLD>.gs</TLD>
+		<Capital>NULL</Capital>
+		<Continent>Antarctic Region</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>Pound Sterling</Currency>
+		<CurrencyCode>GBP</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>183</CountryID>
+		<Country>South Korea</Country>
+		<Table>southkorea</Table>
+		<ISO2>KR</ISO2>
+		<FIPS104>KS</FIPS104>
+		<ISO3>KOR</ISO3>
+		<ISON>410</ISON>
+		<TLD>.kr</TLD>
+		<Capital>Seoul</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Korean</NationalitySingular>
+		<NationalityPlural>Koreans</NationalityPlural>
+		<Currency>Won</Currency>
+		<CurrencyCode>KRW</CurrencyCode>
+		<Population>47904370</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>184</CountryID>
+		<Country>Spain</Country>
+		<Table>spain</Table>
+		<ISO2>ES</ISO2>
+		<FIPS104>SP</FIPS104>
+		<ISO3>ESP</ISO3>
+		<ISON>724</ISON>
+		<TLD>.es</TLD>
+		<Capital>Madrid</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Spanish</NationalitySingular>
+		<NationalityPlural>Spaniards</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>40037995</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>185</CountryID>
+		<Country>Sri Lanka</Country>
+		<Table>srilanka</Table>
+		<ISO2>LK</ISO2>
+		<FIPS104>CE</FIPS104>
+		<ISO3>LKA</ISO3>
+		<ISON>144</ISON>
+		<TLD>.lk</TLD>
+		<Capital>Colombo</Capital>
+		<Continent>Asia</Continent>
+		<NationalitySingular>Sri Lankan</NationalitySingular>
+		<NationalityPlural>Sri Lankans</NationalityPlural>
+		<Currency>Sri Lanka Rupee</Currency>
+		<CurrencyCode>LKR</CurrencyCode>
+		<Population>19408635</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>186</CountryID>
+		<Country>Sudan</Country>
+		<Table>sudan</Table>
+		<ISO2>SD</ISO2>
+		<FIPS104>SU</FIPS104>
+		<ISO3>SDN</ISO3>
+		<ISON>736</ISON>
+		<TLD>.sd</TLD>
+		<Capital>Khartoum</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Sudanese</NationalitySingular>
+		<NationalityPlural>Sudanese</NationalityPlural>
+		<Currency>Sudanese Dinar</Currency>
+		<CurrencyCode>SDD</CurrencyCode>
+		<Population>36080373</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>187</CountryID>
+		<Country>Suriname</Country>
+		<Table>suriname</Table>
+		<ISO2>SR</ISO2>
+		<FIPS104>NS</FIPS104>
+		<ISO3>SUR</ISO3>
+		<ISON>740</ISON>
+		<TLD>.sr</TLD>
+		<Capital>Paramaribo</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Surinamese</NationalitySingular>
+		<NationalityPlural>Surinamers</NationalityPlural>
+		<Currency>Suriname Guilder</Currency>
+		<CurrencyCode>SRG</CurrencyCode>
+		<Population>433998</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>188</CountryID>
+		<Country>Swaziland</Country>
+		<Table>swaziland</Table>
+		<ISO2>SZ</ISO2>
+		<FIPS104>WZ</FIPS104>
+		<ISO3>SWZ</ISO3>
+		<ISON>748</ISON>
+		<TLD>.sz</TLD>
+		<Capital>Mbabane</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Swazi</NationalitySingular>
+		<NationalityPlural>Swazis</NationalityPlural>
+		<Currency>Lilangeni</Currency>
+		<CurrencyCode>SZL</CurrencyCode>
+		<Population>1104343</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>189</CountryID>
+		<Country>Sweden</Country>
+		<Table>sweden</Table>
+		<ISO2>SE</ISO2>
+		<FIPS104>SW</FIPS104>
+		<ISO3>SWE</ISO3>
+		<ISON>752</ISON>
+		<TLD>.se</TLD>
+		<Capital>Stockholm</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Swedish</NationalitySingular>
+		<NationalityPlural>Swedes</NationalityPlural>
+		<Currency>Swedish Krona</Currency>
+		<CurrencyCode>SEK</CurrencyCode>
+		<Population>8875053</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>190</CountryID>
+		<Country>Switzerland</Country>
+		<Table>switzerland</Table>
+		<ISO2>CH</ISO2>
+		<FIPS104>SZ</FIPS104>
+		<ISO3>CHE</ISO3>
+		<ISON>756</ISON>
+		<TLD>.ch</TLD>
+		<Capital>Bern</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>Swiss</NationalitySingular>
+		<NationalityPlural>Swiss</NationalityPlural>
+		<Currency>Swiss Franc</Currency>
+		<CurrencyCode>CHF</CurrencyCode>
+		<Population>7283274</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>191</CountryID>
+		<Country>Syrian Arab Republic</Country>
+		<Table>syria</Table>
+		<ISO2>SY</ISO2>
+		<FIPS104>SY</FIPS104>
+		<ISO3>SYR</ISO3>
+		<ISON>760</ISON>
+		<TLD>.sy</TLD>
+		<Capital>Damascus</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Syrian</NationalitySingular>
+		<NationalityPlural>Syrians</NationalityPlural>
+		<Currency>Syrian Pound</Currency>
+		<CurrencyCode>SYP</CurrencyCode>
+		<Population>16728808</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>192</CountryID>
+		<Country>Taiwan</Country>
+		<Table>taiwan</Table>
+		<ISO2>TW</ISO2>
+		<FIPS104>TW</FIPS104>
+		<ISO3>TWN</ISO3>
+		<ISON>158</ISON>
+		<TLD>.tw</TLD>
+		<Capital>Taipei</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>Taiwanese</NationalitySingular>
+		<NationalityPlural>Taiwanese</NationalityPlural>
+		<Currency>New Taiwan Dollar</Currency>
+		<CurrencyCode>TWD</CurrencyCode>
+		<Population>22370461</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>193</CountryID>
+		<Country>Tajikistan</Country>
+		<Table>tajikistan</Table>
+		<ISO2>TJ</ISO2>
+		<FIPS104>TI</FIPS104>
+		<ISO3>TJK</ISO3>
+		<ISON>762</ISON>
+		<TLD>.tj</TLD>
+		<Capital>Dushanbe</Capital>
+		<Continent>Commonwealth of Independent States</Continent>
+		<NationalitySingular>Tajikistani</NationalitySingular>
+		<NationalityPlural>Tajikistanis</NationalityPlural>
+		<Currency>Somoni</Currency>
+		<CurrencyCode>TJS</CurrencyCode>
+		<Population>6578681</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>194</CountryID>
+		<Country>United Republic of Tanzania</Country>
+		<Table>tanzania</Table>
+		<ISO2>TZ</ISO2>
+		<FIPS104>TZ</FIPS104>
+		<ISO3>TZA</ISO3>
+		<ISON>834</ISON>
+		<TLD>.tz</TLD>
+		<Capital>Dar es Salaam</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Tanzanian</NationalitySingular>
+		<NationalityPlural>Tanzanians</NationalityPlural>
+		<Currency>Tanzanian Shilling</Currency>
+		<CurrencyCode>TZS</CurrencyCode>
+		<Population>36232074</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>195</CountryID>
+		<Country>Thailand</Country>
+		<Table>thailand</Table>
+		<ISO2>TH</ISO2>
+		<FIPS104>TH</FIPS104>
+		<ISO3>THA</ISO3>
+		<ISON>764</ISON>
+		<TLD>.th</TLD>
+		<Capital>Bangkok</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>Thai</NationalitySingular>
+		<NationalityPlural>Thai</NationalityPlural>
+		<Currency>Baht</Currency>
+		<CurrencyCode>THB</CurrencyCode>
+		<Population>61797751</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>196</CountryID>
+		<Country>Togo</Country>
+		<Table>togo</Table>
+		<ISO2>TG</ISO2>
+		<FIPS104>TO</FIPS104>
+		<ISO3>TGO</ISO3>
+		<ISON>768</ISON>
+		<TLD>.tg</TLD>
+		<Capital>Lome</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Togolese</NationalitySingular>
+		<NationalityPlural>Togolese</NationalityPlural>
+		<Currency>CFA Franc BCEAO</Currency>
+		<CurrencyCode>XOF</CurrencyCode>
+		<Population>5153088</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>197</CountryID>
+		<Country>Tokelau</Country>
+		<Table>tokelau</Table>
+		<ISO2>TK</ISO2>
+		<FIPS104>TL</FIPS104>
+		<ISO3>TKL</ISO3>
+		<ISON>772</ISON>
+		<TLD>.tk</TLD>
+		<Capital>NULL</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Tokelauan</NationalitySingular>
+		<NationalityPlural>Tokelauans</NationalityPlural>
+		<Currency>New Zealand Dollar</Currency>
+		<CurrencyCode>NZD</CurrencyCode>
+		<Population>1445</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>198</CountryID>
+		<Country>Tonga</Country>
+		<Table>tonga</Table>
+		<ISO2>TO</ISO2>
+		<FIPS104>TN</FIPS104>
+		<ISO3>TON</ISO3>
+		<ISON>776</ISON>
+		<TLD>.to</TLD>
+		<Capital>Nuku&#39;alofa</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Tongan</NationalitySingular>
+		<NationalityPlural>Tongans</NationalityPlural>
+		<Currency>Pa&#39;anga</Currency>
+		<CurrencyCode>TOP</CurrencyCode>
+		<Population>104227</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>199</CountryID>
+		<Country>Trinidad And Tobago</Country>
+		<Table>trinidadandtobago</Table>
+		<ISO2>TT</ISO2>
+		<FIPS104>TD</FIPS104>
+		<ISO3>TTO</ISO3>
+		<ISON>780</ISON>
+		<TLD>.tt</TLD>
+		<Capital>Port-of-Spain</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>Trinidadian and Tobagonian</NationalitySingular>
+		<NationalityPlural>Trinidadians and Tobagonians</NationalityPlural>
+		<Currency>Trinidad and Tobago Dollar</Currency>
+		<CurrencyCode>TTD</CurrencyCode>
+		<Population>1169682</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>200</CountryID>
+		<Country>Trist And Acunha</Country>
+		<Table>tristandacunha</Table>
+		<ISO2>NULL</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>0</ISON>
+		<TLD>NULL</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>201</CountryID>
+		<Country>Tromelin Island</Country>
+		<Table>tromelinisland</Table>
+		<ISO2>NULL</ISO2>
+		<FIPS104>NULL</FIPS104>
+		<ISO3>NULL</ISO3>
+		<ISON>0</ISON>
+		<TLD>NULL</TLD>
+		<Capital>NULL</Capital>
+		<Continent>NULL</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>NULL</Currency>
+		<CurrencyCode>NULL</CurrencyCode>
+		<Population>NULL</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>202</CountryID>
+		<Country>Tunisia</Country>
+		<Table>tunisia</Table>
+		<ISO2>TN</ISO2>
+		<FIPS104>TS</FIPS104>
+		<ISO3>TUN</ISO3>
+		<ISON>788</ISON>
+		<TLD>.tn</TLD>
+		<Capital>Tunis</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Tunisian</NationalitySingular>
+		<NationalityPlural>Tunisians</NationalityPlural>
+		<Currency>Tunisian Dinar</Currency>
+		<CurrencyCode>TND</CurrencyCode>
+		<Population>9705102</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>203</CountryID>
+		<Country>Turkey</Country>
+		<Table>turkey</Table>
+		<ISO2>TR</ISO2>
+		<FIPS104>TU</FIPS104>
+		<ISO3>TUR</ISO3>
+		<ISON>792</ISON>
+		<TLD>.tr</TLD>
+		<Capital>Ankara</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Turkish</NationalitySingular>
+		<NationalityPlural>Turks</NationalityPlural>
+		<Currency>Turkish Lira</Currency>
+		<CurrencyCode>TRL</CurrencyCode>
+		<Population>66493970</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>204</CountryID>
+		<Country>Turkmenistan</Country>
+		<Table>turkmenistan</Table>
+		<ISO2>TM</ISO2>
+		<FIPS104>TX</FIPS104>
+		<ISO3>TKM</ISO3>
+		<ISON>795</ISON>
+		<TLD>.tm</TLD>
+		<Capital>Ashgabat</Capital>
+		<Continent>Commonwealth of Independent States</Continent>
+		<NationalitySingular>Turkmen</NationalitySingular>
+		<NationalityPlural>Turkmens</NationalityPlural>
+		<Currency>Manat</Currency>
+		<CurrencyCode>TMM</CurrencyCode>
+		<Population>4603244</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>205</CountryID>
+		<Country>Turks and Caicos Islands</Country>
+		<Table>turksandcaicosislands</Table>
+		<ISO2>TC</ISO2>
+		<FIPS104>TK</FIPS104>
+		<ISO3>TCA</ISO3>
+		<ISON>796</ISON>
+		<TLD>.tc</TLD>
+		<Capital>Cockburn Town</Capital>
+		<Continent>Central America and the Caribbean</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>US Dollar</Currency>
+		<CurrencyCode>USD</CurrencyCode>
+		<Population>18122</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>206</CountryID>
+		<Country>Tuvalu</Country>
+		<Table>tuvalu</Table>
+		<ISO2>TV</ISO2>
+		<FIPS104>TV</FIPS104>
+		<ISO3>TUV</ISO3>
+		<ISON>798</ISON>
+		<TLD>.tv</TLD>
+		<Capital>Funafuti</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Tuvaluan</NationalitySingular>
+		<NationalityPlural>Tuvaluans</NationalityPlural>
+		<Currency>Australian Dollar</Currency>
+		<CurrencyCode>AUD</CurrencyCode>
+		<Population>10991</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>207</CountryID>
+		<Country>Uganda</Country>
+		<Table>uganda</Table>
+		<ISO2>UG</ISO2>
+		<FIPS104>UG</FIPS104>
+		<ISO3>UGA</ISO3>
+		<ISON>800</ISON>
+		<TLD>.ug</TLD>
+		<Capital>Kampala</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Ugandan</NationalitySingular>
+		<NationalityPlural>Ugandans</NationalityPlural>
+		<Currency>Uganda Shilling</Currency>
+		<CurrencyCode>UGX</CurrencyCode>
+		<Population>23985712</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>208</CountryID>
+		<Country>Ukraine</Country>
+		<Table>ukraine</Table>
+		<ISO2>UA</ISO2>
+		<FIPS104>UP</FIPS104>
+		<ISO3>UKR</ISO3>
+		<ISON>804</ISON>
+		<TLD>.ua</TLD>
+		<Capital>Kiev</Capital>
+		<Continent>Commonwealth of Independent States</Continent>
+		<NationalitySingular>Ukrainian</NationalitySingular>
+		<NationalityPlural>Ukrainians</NationalityPlural>
+		<Currency>Hryvnia</Currency>
+		<CurrencyCode>UAH</CurrencyCode>
+		<Population>48760474</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>209</CountryID>
+		<Country>United Arab Emirates</Country>
+		<Table>unitedarabemirates</Table>
+		<ISO2>AE</ISO2>
+		<FIPS104>AE</FIPS104>
+		<ISO3>ARE</ISO3>
+		<ISON>784</ISON>
+		<TLD>.ae</TLD>
+		<Capital>Abu Dhabi</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Emirati</NationalitySingular>
+		<NationalityPlural>Emiratis</NationalityPlural>
+		<Currency>UAE Dirham</Currency>
+		<CurrencyCode>AED</CurrencyCode>
+		<Population>2407460</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>210</CountryID>
+		<Country>United Kingdom</Country>
+		<Table>unitedkingdom</Table>
+		<ISO2>GB</ISO2>
+		<FIPS104>UK</FIPS104>
+		<ISO3>GBR</ISO3>
+		<ISON>826</ISON>
+		<TLD>.uk</TLD>
+		<Capital>London</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>British</NationalitySingular>
+		<NationalityPlural>Britons</NationalityPlural>
+		<Currency>Pound Sterling</Currency>
+		<CurrencyCode>GBP</CurrencyCode>
+		<Population>59647790</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>211</CountryID>
+		<Country>Uruguay</Country>
+		<Table>uruguay</Table>
+		<ISO2>UY</ISO2>
+		<FIPS104>UY</FIPS104>
+		<ISO3>URY</ISO3>
+		<ISON>858</ISON>
+		<TLD>.uy</TLD>
+		<Capital>Montevideo</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Uruguayan</NationalitySingular>
+		<NationalityPlural>Uruguayans</NationalityPlural>
+		<Currency>Peso Uruguayo</Currency>
+		<CurrencyCode>UYU</CurrencyCode>
+		<Population>3360105</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>212</CountryID>
+		<Country>Uzbekistan</Country>
+		<Table>uzbekistan</Table>
+		<ISO2>UZ</ISO2>
+		<FIPS104>UZ</FIPS104>
+		<ISO3>UZB</ISO3>
+		<ISON>860</ISON>
+		<TLD>.uz</TLD>
+		<Capital>Tashkent</Capital>
+		<Continent>Commonwealth of Independent States</Continent>
+		<NationalitySingular>Uzbekistani</NationalitySingular>
+		<NationalityPlural>Uzbekistanis</NationalityPlural>
+		<Currency>Uzbekistan Sum</Currency>
+		<CurrencyCode>UZS</CurrencyCode>
+		<Population>25155064</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>213</CountryID>
+		<Country>Vanuatu</Country>
+		<Table>vanuatu</Table>
+		<ISO2>VU</ISO2>
+		<FIPS104>NH</FIPS104>
+		<ISO3>VUT</ISO3>
+		<ISON>548</ISON>
+		<TLD>.vu</TLD>
+		<Capital>Port-Vila</Capital>
+		<Continent>Oceania</Continent>
+		<NationalitySingular>Ni-Vanuatu</NationalitySingular>
+		<NationalityPlural>Ni-Vanuatu</NationalityPlural>
+		<Currency>Vatu</Currency>
+		<CurrencyCode>VUV</CurrencyCode>
+		<Population>192910</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>214</CountryID>
+		<Country>Holy See (Vatican City)</Country>
+		<Table>vaticancity</Table>
+		<ISO2>VA</ISO2>
+		<FIPS104>VT</FIPS104>
+		<ISO3>VAT</ISO3>
+		<ISON>336</ISON>
+		<TLD>.va</TLD>
+		<Capital>Vatican City</Capital>
+		<Continent>Europe</Continent>
+		<NationalitySingular>NULL</NationalitySingular>
+		<NationalityPlural>NULL</NationalityPlural>
+		<Currency>Euro</Currency>
+		<CurrencyCode>EUR</CurrencyCode>
+		<Population>890</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>215</CountryID>
+		<Country>Venezuela</Country>
+		<Table>venezuela</Table>
+		<ISO2>VE</ISO2>
+		<FIPS104>VE</FIPS104>
+		<ISO3>VEN</ISO3>
+		<ISON>862</ISON>
+		<TLD>.ve</TLD>
+		<Capital>Caracas</Capital>
+		<Continent>South America</Continent>
+		<NationalitySingular>Venezuelan</NationalitySingular>
+		<NationalityPlural>Venezuelans</NationalityPlural>
+		<Currency>Bolivar</Currency>
+		<CurrencyCode>VEB</CurrencyCode>
+		<Population>23916810</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>216</CountryID>
+		<Country>Vietnam</Country>
+		<Table>vietnam</Table>
+		<ISO2>VN</ISO2>
+		<FIPS104>VM</FIPS104>
+		<ISO3>VNM</ISO3>
+		<ISON>704</ISON>
+		<TLD>.vn</TLD>
+		<Capital>Hanoi</Capital>
+		<Continent>South East Asia</Continent>
+		<NationalitySingular>Vietnamese</NationalitySingular>
+		<NationalityPlural>Vietnamese</NationalityPlural>
+		<Currency>Dong</Currency>
+		<CurrencyCode>VND</CurrencyCode>
+		<Population>79939014</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>217</CountryID>
+		<Country>Western Sahara</Country>
+		<Table>westernsahara</Table>
+		<ISO2>EH</ISO2>
+		<FIPS104>WI</FIPS104>
+		<ISO3>ESH</ISO3>
+		<ISON>732</ISON>
+		<TLD>.eh</TLD>
+		<Capital>NULL</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Sahrawian</NationalitySingular>
+		<NationalityPlural>Sahrawis</NationalityPlural>
+		<Currency>Moroccan Dirham</Currency>
+		<CurrencyCode>MAD</CurrencyCode>
+		<Population>250559</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>218</CountryID>
+		<Country>Yemen</Country>
+		<Table>yemen</Table>
+		<ISO2>YE</ISO2>
+		<FIPS104>YM</FIPS104>
+		<ISO3>YEM</ISO3>
+		<ISON>887</ISON>
+		<TLD>.ye</TLD>
+		<Capital>Sanaa</Capital>
+		<Continent>Middle East</Continent>
+		<NationalitySingular>Yemeni</NationalitySingular>
+		<NationalityPlural>Yemenis</NationalityPlural>
+		<Currency>Yemeni Rial</Currency>
+		<CurrencyCode>YER</CurrencyCode>
+		<Population>18078035</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>219</CountryID>
+		<Country>Zambia</Country>
+		<Table>zambia</Table>
+		<ISO2>ZM</ISO2>
+		<FIPS104>ZA</FIPS104>
+		<ISO3>ZWB</ISO3>
+		<ISON>894</ISON>
+		<TLD>.zm</TLD>
+		<Capital>Lusaka</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Zambian</NationalitySingular>
+		<NationalityPlural>Zambians</NationalityPlural>
+		<Currency>Kwacha</Currency>
+		<CurrencyCode>ZMK</CurrencyCode>
+		<Population>9770199</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>220</CountryID>
+		<Country>Zimbabwe</Country>
+		<Table>zimbabwe</Table>
+		<ISO2>ZW</ISO2>
+		<FIPS104>ZI</FIPS104>
+		<ISO3>ZWE</ISO3>
+		<ISON>716</ISON>
+		<TLD>.zw</TLD>
+		<Capital>Harare</Capital>
+		<Continent>Africa</Continent>
+		<NationalitySingular>Zimbabwean</NationalitySingular>
+		<NationalityPlural>Zimbabweans</NationalityPlural>
+		<Currency>Zimbabwe Dollar</Currency>
+		<CurrencyCode>ZWD</CurrencyCode>
+		<Population>11365366</Population>
+	</ROW>
+
+	<ROW>
+		<CountryID>221</CountryID>
+		<Country>United States</Country>
+		<Table>unitedstates</Table>
+		<ISO2>US</ISO2>
+		<FIPS104>US</FIPS104>
+		<ISO3>USA</ISO3>
+		<ISON>840</ISON>
+		<TLD>.us</TLD>
+		<Capital>Washington, DC</Capital>
+		<Continent>North America</Continent>
+		<NationalitySingular>American</NationalitySingular>
+		<NationalityPlural>Americans</NationalityPlural>
+		<Currency>US Dollar</Currency>
+		<CurrencyCode>USD</CurrencyCode>
+		<Population>278058881</Population>
+	</ROW>
+</DATA>
