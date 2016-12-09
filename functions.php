@@ -207,18 +207,22 @@ if (!function_exists("newakeGetStrata"))
 		}
 
 		if (strlen($start)>0 && !is_null($start))
-			foreach($results as $toplogy => $result)
+		{
+			$result = array();
+			foreach($results as $toplogy => $row)
 			{
 				if (strtolower(substr($toplogy,0,strlen($start)))===strtolower($start))
 				{
 					if ($length!=0 && !is_null($length))
-						if ($strlen($toplogy)>$length)
-							unset($results[$toplogy]);
-				} elseif (strtolower(substr($toplogy,0,strlen($start)))!=strtolower($start))
-				{
-					unset($results[$toplogy]);
-				}
+					{
+						if ($strlen($toplogy)<=$length)
+							$result[$toplogy] = $row;
+					} else 
+						$result[$toplogy] = $row;
+				} 
 			}
+			return $result;
+		}
 		return $results;
 	}
 }
