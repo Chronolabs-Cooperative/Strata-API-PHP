@@ -58,8 +58,8 @@
 	} elseif (isset($_GET['output']) || !empty($_GET['output']) && in_array(trim($_GET['mode']), array('strata', 'fallout'))) {
 		$mode = trim($_GET['mode']);
 		$output = trim($_GET['output']);
-		$length = (isset($_GET['length'])?trim($_GET['length']):0);
-		$start = (isset($_GET['start'])?trim($_GET['start']):'');
+		$length = (isset($_GET['length'])?trim($_GET['length']):null);
+		$start = (isset($_GET['start'])?trim($_GET['start']):null);
 	} else {
 		$help=true;
 	}
