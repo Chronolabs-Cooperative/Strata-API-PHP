@@ -206,12 +206,12 @@ if (!function_exists("newakeGetStrata"))
 		
 		}
 		
-		if (strlen($start)>0)
-			foreach($results as $node => $results)
+		if (strlen($start)>0 && !is_null($start))
+			foreach($results as $node => $result)
 			{
 				if (substr($node,0,strlen($start))==strtolower($start))
 				{
-					if ($length!=0)
+					if ($length!=0 && !is_null($length))
 						if ($strlen($node)>$length)
 							unset($results[$node]);
 				} else
