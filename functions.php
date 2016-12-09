@@ -153,7 +153,7 @@ if (!function_exists("newakeGetStrata"))
 			chmod(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json", 0777);
 			unlink(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json");
 		}
-		if (@filesize(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json")<=2048) {
+		if (@filesize(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json")<=2048)
 		{
 			chmod(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json", 0777);
 			unlink(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json");
@@ -177,21 +177,6 @@ if (!function_exists("newakeGetStrata"))
 			$io = fopen(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json", "w+");
 			fwrite($io, $json = json_encode($results), strlen($json));
 			fclose($io);
-			
-			if (strlen($start)>0 && !is_null($start))
-				foreach($results as $toplogy => $result)
-				{
-					if (strtolower(substr($toplogy,0,strlen($start)))===strtolower($start))
-					{
-						if ($length!=0 && !is_null($length))
-							if ($strlen($toplogy)>$length)
-								unset($results[$toplogy]);
-					} elseif (strtolower(substr($toplogy,0,strlen($start)))!=strtolower($start))
-					{
-						unset($results[$toplogy]);
-					}
-				}
-			return $results;
 			
 		} else {
 			if (!$results = json_decode(file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json"), true))
@@ -219,22 +204,22 @@ if (!function_exists("newakeGetStrata"))
 				}
 			}
 		
-			if (strlen($start)>0 && !is_null($start))
-				foreach($results as $toplogy => $result)
-				{
-					if (strtolower(substr($toplogy,0,strlen($start)))===strtolower($start))
-					{
-						if ($length!=0 && !is_null($length))
-							if ($strlen($toplogy)>$length)
-								unset($results[$toplogy]);
-					} elseif (strtolower(substr($toplogy,0,strlen($start)))!=strtolower($start))
-					{
-						unset($results[$toplogy]);
-					}
-				}
-			return $results;
 		}
+
+		if (strlen($start)>0 && !is_null($start))
+			foreach($results as $toplogy => $result)
+			{
+				if (strtolower(substr($toplogy,0,strlen($start)))===strtolower($start))
+				{
+					if ($length!=0 && !is_null($length))
+						if ($strlen($toplogy)>$length)
+							unset($results[$toplogy]);
+				} elseif (strtolower(substr($toplogy,0,strlen($start)))!=strtolower($start))
+				{
+					unset($results[$toplogy]);
+				}
+			}
+		return $results;
 	}
-}
 }
 ?>
