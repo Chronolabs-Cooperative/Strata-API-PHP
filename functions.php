@@ -178,8 +178,6 @@ if (!function_exists("newakeGetStrata"))
 			fwrite($io, $json = json_encode($results), strlen($json));
 			fclose($io);
 			
-			return $results;
-			
 		} else {
 			if (!$results = json_decode(file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json"), true))
 			{
@@ -203,11 +201,11 @@ if (!function_exists("newakeGetStrata"))
 					$io = fopen(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json", "w+");
 					fwrite($io, $json = json_encode($results), strlen($json));
 					fclose($io);
-					}
 				}
-			
 			}
+		
 		}
+		
 		if (strlen($start)>0)
 			foreach($results as $node => $results)
 			{
@@ -216,10 +214,11 @@ if (!function_exists("newakeGetStrata"))
 					if ($length!=0)
 						if ($strlen($node)>$length)
 							unset($results[$node]);
-				} else 
+				} else
 					unset($results[$node]);
 			}
 		return $results;
 	}
+}
 }
 ?>
