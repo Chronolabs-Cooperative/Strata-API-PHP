@@ -203,13 +203,22 @@ if (!function_exists("newakeGetStrata"))
 					$io = fopen(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json", "w+");
 					fwrite($io, $json = json_encode($results), strlen($json));
 					fclose($io);
+					}
 				}
-			}
 			
-			return $results;
-		
+			}
 		}
-		}
+		if (strlen($start)>0)
+			foreach($results as $node => $results)
+			{
+				if (substr($node,0,strlen($start))==strtolower($node))
+				{
+					if ($length!=0)
+						if ($strlen($node)>$length)
+							unset($results[$node]);
+				} else 
+					unset($results[$node]);
+			}
 		return $results;
 	}
 }
