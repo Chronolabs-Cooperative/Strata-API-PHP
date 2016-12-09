@@ -143,7 +143,7 @@ if (!function_exists("newakeGetStrata"))
 	 * @param string $start Only return network strata beginning with or any empty()
 	 * @return array
 	 */
-	function newakeGetStrata($length = 0, $start = '') 
+	function newakeGetStrata($length = null, $start = null) 
 	{
 		$return = array("key", "node");
 		$toplogy = "";
@@ -178,6 +178,21 @@ if (!function_exists("newakeGetStrata"))
 			fwrite($io, $json = json_encode($results), strlen($json));
 			fclose($io);
 			
+			if (strlen($start)>0 && !is_null($start))
+				foreach($results as $toplogy => $result)
+				{
+					if (strtolower(substr($toplogy,0,strlen($start)))===strtolower($start))
+					{
+						if ($length!=0 && !is_null($length))
+							if ($strlen($toplogy)>$length)
+								unset($results[$toplogy]);
+					} elseif (strtolower(substr($toplogy,0,strlen($start)))!=strtolower($start))
+					{
+						unset($results[$toplogy]);
+					}
+				}
+			return $results;
+			
 		} else {
 			if (!$results = json_decode(file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json"), true))
 			{
@@ -204,20 +219,21 @@ if (!function_exists("newakeGetStrata"))
 				}
 			}
 		
-		}
-		
-		if (strlen($start)>0 && !is_null($start))
-			foreach($results as $node => $result)
-			{
-				if (substr($node,0,strlen($start))==strtolower($start))
+			if (strlen($start)>0 && !is_null($start))
+				foreach($results as $toplogy => $result)
 				{
-					if ($length!=0 && !is_null($length))
-						if ($strlen($node)>$length)
-							unset($results[$node]);
-				} else
-					unset($results[$node]);
-			}
-		return $results;
+					if (strtolower(substr($toplogy,0,strlen($start)))===strtolower($start))
+					{
+						if ($length!=0 && !is_null($length))
+							if ($strlen($toplogy)>$length)
+								unset($results[$toplogy]);
+					} elseif (strtolower(substr($toplogy,0,strlen($start)))!=strtolower($start))
+					{
+						unset($results[$toplogy]);
+					}
+				}
+			return $results;
+		}
 	}
 }
 }
