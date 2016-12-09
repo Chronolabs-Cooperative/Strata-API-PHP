@@ -112,7 +112,8 @@ if (!function_exists("newakeGetFallout")) {
 	 *
 	 * @return array
 	 */
-	function newakeGetFallout() {
+	function newakeGetFallout() 
+	{
 		$return = array("ISO2", "FIPS104", "ISO3", "ISON", "TLD", "CurrencyCode");
 		$fallouts = simplexml_load_file(__DIR__ . DIRECTORY_SEPARATOR . "fallout.---");
 		$result = array();
@@ -123,7 +124,7 @@ if (!function_exists("newakeGetFallout")) {
 				$row = array();
 				foreach ($fallout as $key => $value)
 					if (in_array($key, $return))
-						$row[strtolower($key)] = (string)$fallout->$key;
+						$row[strtolower($key)] = $fallout->$key;
 				$row['key'] = sha1(json_encode($row));
 				$result[str_replace('.', '', $row['tld'])] = $row;
 			}
@@ -132,7 +133,8 @@ if (!function_exists("newakeGetFallout")) {
 	}
 }
 
-if (!function_exists("newakeGetStrata")) {
+if (!function_exists("newakeGetStrata")) 
+{
 
 	/**
 	 * Returns Realms, TLD, gTLD, Domains and Networking Topology Data Set
@@ -145,7 +147,20 @@ if (!function_exists("newakeGetStrata")) {
 	{
 		$return = array("key", "node");
 		$toplogy = "";
-		if (!file_exists(__DIR__ . DIRECTORY_SEPARATOR . "strata.---")) {
+		$results = array();
+		if (@filemtime(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json") + 3600 * 1.21 <= time() )
+		{
+			chmod(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json", 0777);
+			unlink(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json");
+		}
+		if (@filesize(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json")<=2048) {
+		{
+			chmod(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json", 0777);
+			unlink(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json");
+		}
+		
+		if (!file_exists(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json"))
+		{
 			$results = array();
 			foreach(file("http://data.iana.org/TLD/tlds-alpha-by-domain.txt") as $pointer)
 			{
@@ -154,77 +169,48 @@ if (!function_exists("newakeGetStrata")) {
 				{
 					$row = array();
 					$row["node"] = ".".$realm;
-					$row['key'] = sha1($toplogy.json_encode($results));
+					$row['key'] = sha1($toplogy);
 					$results[$topology] = $row;
 				}
 			}
-
-			$io = fopen(__DIR__ . DIRECTORY_SEPARATOR . "strata.---", "w+");
-			$dom = new XmlDomConstruct('1.0', 'utf-8');
-			$dom->fromMixed(array("strata"=>$results));
-			fwrite($io, $xml = $dom->saveXML(), strlen($xml));
+		
+			$io = fopen(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json", "w+");
+			fwrite($io, $json = json_encode($results), strlen($json));
 			fclose($io);
-
-		}
+			
+			return $results;
+			
+		} else {
+			if (!$results = json_decode(file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json"), true))
+			{
+				chmod(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json", 0777);
+				unlink(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json");
+				if (!file_exists(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json")) 
+				{
+					$results = array();
+					foreach(file("http://data.iana.org/TLD/tlds-alpha-by-domain.txt") as $pointer)
+					{
+						$topology = str_replace(array('.', '-', '_'), '', $realm = trim(strtolower($pointer)));
+						if (!strpos(' '.$topology,"#")  && !empty($topology))
+						{
+							$row = array();
+							$row["node"] = ".".$realm;
+							$row['key'] = sha1($toplogy);
+							$results[$topology] = $row;
+						}
+					}
+				
+					$io = fopen(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json", "w+");
+					fwrite($io, $json = json_encode($results), strlen($json));
+					fclose($io);
+				}
+			}
+			
+			return $results;
 		
-		if (@file_exists(__DIR__ . DIRECTORY_SEPARATOR . "strata.---"))
-		{
-			if (@filemtime(__DIR__ . DIRECTORY_SEPARATOR . "strata.---") + 3600 * 1.21 <= time() )
-			{
-				chmod(__DIR__ . DIRECTORY_SEPARATOR . "strata.---", 0777);
-				unlink(__DIR__ . DIRECTORY_SEPARATOR . "strata.---");
-			}
-			if (@filesize(__DIR__ . DIRECTORY_SEPARATOR . "strata.---")<=2048) {
-			{
-				chmod(__DIR__ . DIRECTORY_SEPARATOR . "strata.---", 0777);
-				unlink(__DIR__ . DIRECTORY_SEPARATOR . "strata.---");
-			}
 		}
-
-		
-		if (!$stratas = simplexml_load_file(__DIR__ . DIRECTORY_SEPARATOR . "strata.---"))
-		{
-			$stratas = array();
-			unlink(__DIR__ . DIRECTORY_SEPARATOR . "strata.---");
 		}
-		$result = array();
-		foreach($stratas as $node => $strata)
-		{
-			if ($length > 0 && $start = '' && strlen($node) == $length)
-			{
-				$row = array();
-				foreach ($strata as $key => $value)
-					if (in_array($key, $return))
-					$row[strtolower($key)] = (string)$strata->$key;
-				$row['key'] = sha1(json_encode($row));
-				$result[$node] = $row;
-			} elseif ($length == 0 && !empty($start) && substr($node, 0, strlen($start)) == $start)
-			{
-				$row = array();
-				foreach ($strata as $key => $value)
-					if (in_array($key, $return))
-					$row[strtolower($key)] = (string)$strata->$key;
-				$row['key'] = sha1(json_encode($row));
-				$result[$node] = $row;
-			} elseif ($length > 0 && !empty($start) && strlen($node) == $length && substr($node, 0, strlen($start)) == $start)
-			{
-				$row = array();
-				foreach ($strata as $key => $value)
-					if (in_array($key, $return))
-					$row[strtolower($key)] = (string)$strata->$key;
-				$row['key'] = sha1(json_encode($row));
-				$result[$node] = $row;
-			} else {
-				$row = array();
-				foreach ($strata as $key => $value)
-					if (in_array($key, $return))
-					$row[strtolower($key)] = (string)$strata->$key;
-				$row['key'] = sha1(json_encode($row));
-				$result[$node] = $row;
-			}
-		}
-		return $result;
-		}
+		return $results;
 	}
 }
 ?>
