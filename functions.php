@@ -193,7 +193,7 @@ if (!function_exists("newakeGetStrata"))
 						{
 							$row = array();
 							$row["node"] = ".".$realm;
-							$row['key'] = sha1($toplogy);
+							$row['key'] = sha1($topology);
 							$results[$topology] = $row;
 						}
 					}
@@ -209,16 +209,16 @@ if (!function_exists("newakeGetStrata"))
 		if (strlen($start)>0 && !is_null($start))
 		{
 			$result = array();
-			foreach($results as $toplogy => $row)
+			foreach($results as $topology => $row)
 			{
-				if (strtolower(substr($toplogy,0,strlen($start)))===strtolower($start))
+				if (strtolower(substr($topology,0,strlen($start)))==strtolower($start))
 				{
 					if ($length!=0 && !is_null($length))
 					{
-						if ($strlen($toplogy)<=$length)
-							$result[$toplogy] = $row;
+						if ($strlen($topology)<=$length)
+							$result[$topology] = $row;
 					} else 
-						$result[$toplogy] = $row;
+						$result[$topology] = $row;
 				} 
 			}
 			return $result;
