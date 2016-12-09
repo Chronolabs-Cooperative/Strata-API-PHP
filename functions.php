@@ -146,7 +146,7 @@ if (!function_exists("newakeGetStrata"))
 	function newakeGetStrata($length = null, $start = null) 
 	{
 		$return = array("key", "node");
-		$toplogy = "";
+		$topology = "";
 		$results = array();
 		if (@filemtime(__DIR__ . DIRECTORY_SEPARATOR . "stratas.json") + 3600 * 1.21 <= time() )
 		{
@@ -169,7 +169,7 @@ if (!function_exists("newakeGetStrata"))
 				{
 					$row = array();
 					$row["node"] = ".".$realm;
-					$row['key'] = sha1($toplogy);
+					$row['key'] = sha1($topology);
 					$results[$topology] = $row;
 				}
 			}
