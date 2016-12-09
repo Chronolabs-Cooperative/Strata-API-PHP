@@ -211,7 +211,7 @@ if (!function_exists("newakeGetStrata"))
 		if (strlen($start)>0)
 			foreach($results as $node => $results)
 			{
-				if (substr($node,0,strlen($start))==strtolower($node))
+				if (substr($node,0,strlen($start))==strtolower($start))
 				{
 					if ($length!=0)
 						if ($strlen($node)>$length)
