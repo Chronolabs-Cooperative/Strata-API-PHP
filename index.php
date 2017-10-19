@@ -27,39 +27,58 @@
 	$salter = ((float)(mt_rand(0,1)==1?'':'-').$parts[1].'.'.$parts[0]) / sqrt((float)$parts[1].'.'.intval(cosh($parts[0])))*tanh($parts[1]) * mt_rand(1, intval($parts[0] / $parts[1]));
 	header('Blowfish-salt: '. $salter);
 	
-	global $domain, $protocol, $business, $entity, $contact, $referee, $peerings, $source;
 	require_once __DIR__ . DIRECTORY_SEPARATOR . 'apiconfig.php';
 	
-	/**
-	 * Global API Configurations and Setting from file Constants!
-	 */
-	$domain = getDomainSupportism('domain', $_SERVER["HTTP_HOST"]);
-	$protocol = getDomainSupportism('protocol', $_SERVER["HTTP_HOST"]);
-	$business = getDomainSupportism('business', $_SERVER["HTTP_HOST"]);
-	$entity = getDomainSupportism('entity', $_SERVER["HTTP_HOST"]);
-	$contact = getDomainSupportism('contact', $_SERVER["HTTP_HOST"]);
-	$referee = getDomainSupportism('referee', $_SERVER["HTTP_HOST"]);
-	$peerings = getPeersSupporting();
 	
 	/**
 	 * URI Path Finding of API URL Source Locality
 	 * @var unknown_type
 	 */
-	$pu = parse_url($_SERVER['REQUEST_URI']);
-	$source = (isset($_SERVER['HTTPS'])?'https://':'http://').strtolower($_SERVER['HTTP_HOST']).$pu['path'];
-	unset($pu);
-
-	ini_set('memory_limit', '256M');
-	include dirname(__FILE__).'/functions.php';
-
+	$odds = $inner = array();
+	foreach($_GET as $key => $values) {
+	    if (!isset($inner[$key])) {
+	        $inner[$key] = $values;
+	    } elseif (!in_array(!is_array($values) ? $values : md5(json_encode($values, true)), array_keys($odds[$key]))) {
+	        if (is_array($values)) {
+	            $odds[$key][md5(json_encode($inner[$key] = $values, true))] = $values;
+	        } else {
+	            $odds[$key][$inner[$key] = $values] = "$values--$key";
+	        }
+	    }
+	}
+	
+	foreach($_POST as $key => $values) {
+	    if (!isset($inner[$key])) {
+	        $inner[$key] = $values;
+	    } elseif (!in_array(!is_array($values) ? $values : md5(json_encode($values, true)), array_keys($odds[$key]))) {
+	        if (is_array($values)) {
+	            $odds[$key][md5(json_encode($inner[$key] = $values, true))] = $values;
+	        } else {
+	            $odds[$key][$inner[$key] = $values] = "$values--$key";
+	        }
+	    }
+	}
+	
+	foreach(parse_url('http://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'].(strpos($_SERVER['REQUEST_URI'], '?')?'&':'?').$_SERVER['QUERY_STRING'], PHP_URL_QUERY) as $key => $values) {
+	    if (!isset($inner[$key])) {
+	        $inner[$key] = $values;
+	    } elseif (!in_array(!is_array($values) ? $values : md5(json_encode($values, true)), array_keys($odds[$key]))) {
+	        if (is_array($values)) {
+	            $odds[$key][md5(json_encode($inner[$key] = $values, true))] = $values;
+	        } else {
+	            $odds[$key][$inner[$key] = $values] = "$values--$key";
+	        }
+	    }
+	}
+	
 	$help=false;
-	if (!isset($_GET['mode']) || empty($_GET['mode'])) {
+	if (!isset($inner['mode']) || empty($inner['mode'])) {
 		$help=true;
-	} elseif (isset($_GET['output']) || !empty($_GET['output']) && in_array(trim($_GET['mode']), array('strata', 'fallout'))) {
-		$mode = trim($_GET['mode']);
-		$output = trim($_GET['output']);
-		$length = (isset($_GET['length'])?trim($_GET['length']):null);
-		$start = (isset($_GET['start'])?trim($_GET['start']):null);
+	} elseif (isset($inner['output']) || !empty($inner['output']) && in_array(trim($inner['mode']), array('strata', 'fallout'))) {
+		$mode = trim($inner['mode']);
+		$output = trim($inner['output']);
+		$length = (isset($inner['length'])?trim($inner['length']):null);
+		$start = (isset($inner['start'])?trim($inner['start']):null);
 	} else {
 		$help=true;
 	}
@@ -100,10 +119,8 @@
 	 * Commences Execution of API Functions
 	 */
 	if (function_exists("http_response_code"))
-		http_response_code(200);
-	
-	
-	
+		http_response_code(201);
+		
 	switch ($mode)
 	{
 		case "strata":
@@ -121,8 +138,9 @@
 			echo '</pre>';
 			break;
 		case 'raw':
-			echo implode(" } { ", $data);
-			break;
+		    header('Content-type: application/x-httpd-php');
+		    echo "<?php\n\n return " . var_export($data, true) . ";\n\n?>";
+		    break;
 		case 'json':
 			header('Content-type: application/json');
 			echo json_encode($data);
