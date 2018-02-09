@@ -29,5 +29,5 @@ defined('API_ROOT_PATH') || exit('Restricted access');
 /**
  *  Define API version
  */
-define('API_VERSION', 'Internet/Transnets Strata API 2.0.11');
+define('API_VERSION', 'Internet/Transnets Strata+Fallout REST API 2.1.11');
 define('API_TYPE', 'strata');

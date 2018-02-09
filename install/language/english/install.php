@@ -196,3 +196,10 @@ define('API_ERROR_ENCOUNTERED', 'Error');
 define('API_ERROR_SEE_BELOW', 'See below for messages.');
 define('MODULES_AVAILABLE', 'Available Modules');
 define('INSTALL_THIS_MODULE', 'Add %s');
+
+// Strata REST API
+define('API_EXTRAS', 'Extra Configuration Settings');
+define('PATHS_EXTRA', 'Extra Settings');
+define('PATHS_EXTRA_TITLE', 'Extra Settings');
+define('API_PLACES_API_URL_LABEL', 'Geospatial PLaces Services REST API [&nbsp;See:&nbsp;<a href="https://github.com/Chronolabs-Cooperative/Places-API-PHP" target="_blank">Github.com...</a>&nbsp;]');
+define('API_PLACES_API_URL_HELP', 'Geospatial PLaces Services REST API [&nbsp;See:&nbsp;<a href="https://github.com/Chronolabs-Cooperative/Places-API-PHP" target="_blank">Github.com...</a>&nbsp;]');

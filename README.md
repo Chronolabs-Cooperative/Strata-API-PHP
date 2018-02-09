@@ -1,10 +1,12 @@
-# Chronolabs Cooperative Presents
+## Chronolabs Cooperative presents
 
-#Internet Strata + Fallout Services API
+# Internet/Transnetworking Strata + Fallout REST Services API
 
-## http://strata.snails.email
+## Version: 2.1.11
 
-### Author: Simon Antony Roberts (simon@snails.email) - (c) 2016 - 2026
+### Author: Dr. Simon Antony Roberts (simon@snails.email) - (c) 2016 - 2026
+
+#### Demo: http://strata.snails.email
 
 The ISF API Provides a drill down list of all the Internet Realms, TLD, gTLD that are currently available to the network strata you are in. It also provides country or place fallout which is associated with going on the end of the nodes in the strata.
 

@@ -444,7 +444,7 @@ if (!function_exists("newakeGetFallout")) {
      */
     function newakeGetFallout()
     {
-        $sql = "SELECT * FROM `" . $GLOBALS['APIDB']->prefix('strata_fallout') . '`';
+        $sql = "SELECT * FROM `" . $GLOBALS['APIDB']->prefix('strata_fallouts') . '`';
         
         $result = $GLOBALS["APIDB"]->queryF($sql);
         $results = array();
@@ -485,7 +485,7 @@ if (!function_exists("newakeGetStrata"))
         while($row = $GLOBALS["APIDB"]->fetchArray($result))
         {
             $results[strtolower($row['realm'])]['node'] = ".".strtolower($row['realm']);
-            $results[strtolower($row['realm'])]['key'] = sha1(strtolower($row['realm']));
+            $results[strtolower($row['realm'])]['key'] = strtolower($row['md5']);
         }
         return $results;
     }
