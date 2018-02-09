@@ -18,4 +18,4 @@
 define('API_PLACES_API_URL', '');
 
 // Realms Source
-define("API_REALMS_URL", "http://data.iana.org/TLD/tlds-alpha-by-realm.txt");
+define("API_REALMS_URL", "http://data.iana.org/TLD/tlds-alpha-by-domain.txt");
