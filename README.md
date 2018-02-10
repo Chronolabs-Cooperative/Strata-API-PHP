@@ -2,7 +2,7 @@
 
 # Internet/Transnetworking Strata + Fallout REST Services API
 
-## Version: 2.1.11
+## Version: 2.1.13 (final major)
 
 ### Author: Dr. Simon Antony Roberts (simon@snails.email) - (c) 2016 - 2026
 
