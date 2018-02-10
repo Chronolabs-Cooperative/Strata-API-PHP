@@ -1,6 +1,6 @@
 <?php
 /**
- * MySQL access using MySQLi extension
+ * Internet domain Fallout + Class Strata REST Services API
  *
  * You may not change or alter any portion of this comment or credits
  * of supporting developers from this source code or any supporting source code
@@ -9,14 +9,23 @@
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  *
- * @copyright       (c) 2000-2016 API Project (www.api.org)
- * @license             GNU GPL 2 (http://www.gnu.org/licenses/gpl-2.0.html)
- * @package             class
- * @subpackage          database
- * @since               1.0.0
- * @author              Kazumi Ono <onokazu@api.org>
- * @author              Rodney Fulk <redheadedrod@hotmail.com>
+ * @copyright       Chronolabs Cooperative http://syd.au.snails.email
+ * @license         ACADEMIC APL 2 (https://sourceforge.net/u/chronolabscoop/wiki/Academic%20Public%20License%2C%20version%202.0/)
+ * @license         GNU GPL 3 (http://www.gnu.org/licenses/gpl.html)
+ * @package         strata-api
+ * @since           2.1.11
+ * @author          Dr. Simon Antony Roberts <simon@snails.email>
+ * @version         2.1.13
+ * @description		An Internet REST API which provides domain fallout + classing strata listing.
+ * @link            http://internetfounder.wordpress.com
+ * @link            https://github.com/Chronolabs-Cooperative/WhoIS-API-PHP
+ * @link            https://sourceforge.net/p/chronolabs-cooperative
+ * @link            https://facebook.com/ChronolabsCoop
+ * @link            https://twitter.com/ChronolabsCoop
+ * 
  */
+
+
 defined('API_ROOT_PATH') || die('Restricted access');
 
 include_once API_ROOT_PATH . '/class/database/database.php';

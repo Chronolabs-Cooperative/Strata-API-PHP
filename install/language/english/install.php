@@ -1,20 +1,31 @@
 <?php
 /**
- * Installer main english strings declaration file
+ * Internet domain Fallout + Class Strata REST Services API
  *
- * @copyright    (c) 2000-2016 API Project (www.api.org)
- * @license          GNU GPL 2 or later (http://www.gnu.org/licenses/gpl-2.0.html)
- * @package          installer
- * @since            2.3.0
- * @author           Haruki Setoyama  <haruki@planewave.org>
- * @author           Kazumi Ono <webmaster@myweb.ne.jp>
- * @author           Skalpa Keo <skalpa@api.org>
- * @author           Taiwen Jiang <phppp@users.sourceforge.net>
- * @author           dugris <dugris@frapi.org>
+ * You may not change or alter any portion of this comment or credits
+ * of supporting developers from this source code or any supporting source code
+ * which is considered copyrighted (c) material of the original comment or credit authors.
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ *
+ * @copyright       Chronolabs Cooperative http://syd.au.snails.email
+ * @license         ACADEMIC APL 2 (https://sourceforge.net/u/chronolabscoop/wiki/Academic%20Public%20License%2C%20version%202.0/)
+ * @license         GNU GPL 3 (http://www.gnu.org/licenses/gpl.html)
+ * @package         strata-api
+ * @since           2.1.11
+ * @author          Dr. Simon Antony Roberts <simon@snails.email>
+ * @version         2.1.13
+ * @description		An Internet REST API which provides domain fallout + classing strata listing.
+ * @link            http://internetfounder.wordpress.com
+ * @link            https://github.com/Chronolabs-Cooperative/WhoIS-API-PHP
+ * @link            https://sourceforge.net/p/chronolabs-cooperative
+ * @link            https://facebook.com/ChronolabsCoop
+ * @link            https://twitter.com/ChronolabsCoop
+ * 
  */
-// _LANGCODE: en
-// _CHARSET : UTF-8
-// Translator: API Translation Team
+
+
 define('SHOW_HIDE_HELP', 'Show/hide help text');
 // License
 define('LICENSE_NOT_WRITEABLE', 'License file "%s" is NOT writable!');
