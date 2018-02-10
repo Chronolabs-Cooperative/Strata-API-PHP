@@ -458,6 +458,8 @@ if (!function_exists("newakeGetFallout")) {
         {
             if (!empty($row["TLD"]))
             {
+		unset($row['CountryID']);
+		unset($row['data']);
                 $row['key'] = sha1(json_encode($row));
                 $results[str_replace('.', '', strtolower($row['TLD']))] = $row;
             }
