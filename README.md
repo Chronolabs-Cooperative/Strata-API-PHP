@@ -43,3 +43,47 @@ There is one or more cron jobs that is scheduled task that need to be added to y
 ##Licensing
 
  * This is released under General Public License 3 - GPL3 - Only!
+
+# Implementing in PHP
+
+The following examples is how to implement this API in PHP
+
+## Raw Output Implementation
+
+The following code implements the _raw.api_ call for strata importing the implemented array:
+
+    $strata = eval("?>".file_get_contents("http://strata.localhost/v2/strata/raw.api")."<?php");
+
+The following code implements the _raw.api_ call for fallout importing the implemented array:
+
+    $fallout = eval("?>".file_get_contents("http://strata.localhost/v2/fallout/raw.api")."<?php");
+
+## JSON Output Implementation
+
+The following code implements the _json.api_ call for strata importing the implemented array:
+
+    $strata = json_decode(file_get_contents("http://strata.localhost/v2/strata/json.api"), true);
+
+The following code implements the _json.api_ call for fallout importing the implemented array:
+
+    $fallout = json_decode(file_get_contents("http://strata.localhost/v2/fallout/json.api"), true);
+
+## SERIAL Output Implementation
+
+The following code implements the _serial.api_ call for strata importing the implemented array:
+
+    $strata = unserialize(file_get_contents("http://strata.localhost/v2/strata/serial.api"));
+
+The following code implements the _serial.api_ call for fallout importing the implemented array:
+
+    $fallout = unserialize(file_get_contents("http://strata.localhost/v2/fallout/serial.api"));
+
+## XML Output Implementation
+
+The following code implements the _xml.api_ call for strata importing the implemented array:
+
+    $strata = new SimpleXMLElement(file_get_contents("http://strata.localhost/v2/strata/xml.api"));
+
+The following code implements the _xml.api_ call for fallout importing the implemented array:
+
+    $fallout = new SimpleXMLElement(file_get_contents("http://strata.localhost/v2/fallout/xml.api"));
